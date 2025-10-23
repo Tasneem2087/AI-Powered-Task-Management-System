@@ -43,15 +43,15 @@ AI-Powered-Task-Management-System/
 
 **Category	                  Tools / Libraries**
 
-Frontend	                  HTML, CSS, JavaScript
+Frontend-                  HTML, CSS, JavaScript
 
-Backend	                    Python (Flask Framework)
+Backend-                   Python (Flask Framework)
 
-Machine Learning	          scikit-learn, nltk, pandas
+Machine Learning-	          scikit-learn, nltk, pandas
 
-Visualization              	Matplotlib, Seaborn
+Visualization-              	Matplotlib, Seaborn
 
-Database	                  SQLite / MySQL (optional)
+Database-	                  SQLite / MySQL (optional)
 
 ⚙️**Installation and Setup**
 
