@@ -35,8 +35,10 @@ Visualization              	Matplotlib, Seaborn
 Database	                  SQLite / MySQL (optional)
 
 ⚙️**Installation and Setup**
+
 1️⃣ Clone the Repository
 git clone [https://github.com/your-username/AI-Powered-Task-Management-System.git](https://github.com/Tasneem2087/AI-Powered-Task-Management-System)
+
 cd AI-Powered-Task-Management-System
 
 2️⃣ **Create a Virtual Environment**
