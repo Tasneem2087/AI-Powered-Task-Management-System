@@ -1,10 +1,11 @@
-🧠 AI-Powered Task Management System
-📋 Overview
+**🧠 AI-Powered Task Management System**
 
-The AI-Powered Task Management System is an intelligent application designed to simplify and automate task organization using Machine Learning and Natural Language Processing (NLP).
+**📋 Overview**
+
+The **AI-Powered Task Management System** is an intelligent application designed to simplify and automate task organization using **Machine Learning** and **Natural Language Processing (NLP)**.
 It helps users create, categorize, and prioritize tasks efficiently while providing insights through data visualization and AI suggestions.
 
-🚀 Features
+🚀**Features**
 
 ✅ Intelligent task classification (based on description using ML)
 ✅ NLP-powered intent recognition for adding/editing tasks via natural text
@@ -13,7 +14,7 @@ It helps users create, categorize, and prioritize tasks efficiently while provid
 ✅ Secure login and registration system
 ✅ Modular backend with Flask + frontend dashboard
 
-🏗️ Project Structure
+🏗️ **Project Structure**
 AI-Powered-Task-Management-System/
 │
 ├── app.py                  # Main application script
@@ -25,42 +26,38 @@ AI-Powered-Task-Management-System/
 ├── venv/                   # Virtual environment
 └── requirements.txt        # All dependencies
 
-🧩 Tech Stack
-Category	Tools / Libraries
-Frontend	HTML, CSS, JavaScript
-Backend	Python (Flask Framework)
-Machine Learning	scikit-learn, nltk, pandas
-Visualization	Matplotlib, Seaborn
-Database	SQLite / MySQL (optional)
-⚙️ Installation and Setup
+**🧩 Tech Stack
+Category	                  Tools / Libraries**
+Frontend	                  HTML, CSS, JavaScript
+Backend	                    Python (Flask Framework)
+Machine Learning	          scikit-learn, nltk, pandas
+Visualization              	Matplotlib, Seaborn
+Database	                  SQLite / MySQL (optional)
+
+⚙️**Installation and Setup**
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/AI-Powered-Task-Management-System.git
+git clone [https://github.com/your-username/AI-Powered-Task-Management-System.git](https://github.com/Tasneem2087/AI-Powered-Task-Management-System)
 cd AI-Powered-Task-Management-System
 
-2️⃣ Create a Virtual Environment
+2️⃣ **Create a Virtual Environment**
 python -m venv venv
 
-3️⃣ Activate the Environment
-
-Windows:
-
+3️⃣**Activate the Environment
+Windows:**
 venv\Scripts\activate
 
-
-Mac/Linux:
-
+**Mac/Linux:**
 source venv/bin/activate
 
-4️⃣ Install Dependencies
+4️⃣ **Install Dependencies**
 pip install -r requirements.txt
 
-5️⃣ Run the App
+5️⃣ **Run the App**
 python app.py
-
 
 Then open your browser and visit → [http://127.0.0.1:5000](http://localhost:8501/#priority-distribution-demo)
 
-📊 Sample Output
+📊 **Sample Output**
 
 Task Dashboard with priority visualization
 
@@ -68,6 +65,6 @@ Graph of task completion statistics
 
 AI-generated task recommendations
 
-📜 License
+📜 **License**
 
 This project is licensed under the MIT License — you are free to use, modify, and distribute with attribution.
