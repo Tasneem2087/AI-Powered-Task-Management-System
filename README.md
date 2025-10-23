@@ -8,22 +8,34 @@ It helps users create, categorize, and prioritize tasks efficiently while provid
 🚀**Features**
 
 ✅ Intelligent task classification (based on description using ML)
+
 ✅ NLP-powered intent recognition for adding/editing tasks via natural text
+
 ✅ Task prioritization based on deadlines and urgency
+
 ✅ Graphical data insights using Matplotlib
+
 ✅ Secure login and registration system
+
 ✅ Modular backend with Flask + frontend dashboard
 
 🏗️ **Project Structure**
 AI-Powered-Task-Management-System/
 │
 ├── app.py                  # Main application script
+
 ├── train_models.py         # ML model training script
+
 ├── models/                 # Folder for trained models
+
 ├── static/                 # CSS, JS, and images
+
 ├── templates/              # HTML templates (Flask)
+
 ├── data/                   # Dataset for training
+
 ├── venv/                   # Virtual environment
+
 └── requirements.txt        # All dependencies
 
 **🧩 Tech Stack
@@ -61,11 +73,11 @@ Then open your browser and visit → [http://127.0.0.1:5000](http://localhost:85
 
 📊 **Sample Output**
 
-Task Dashboard with priority visualization
+1.Task Dashboard with priority visualization
 
-Graph of task completion statistics
+2.Graph of task completion statistics
 
-AI-generated task recommendations
+3.AI-generated task recommendations
 
 📜 **License**
 
