@@ -42,6 +42,7 @@ AI-Powered-Task-Management-System/
 **🧩 Tech Stack**
 
 **Category	                  Tools / Libraries**
+
 Frontend	                  HTML, CSS, JavaScript
 
 Backend	                    Python (Flask Framework)
