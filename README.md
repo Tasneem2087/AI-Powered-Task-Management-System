@@ -39,8 +39,9 @@ AI-Powered-Task-Management-System/
 
 └── requirements.txt        # All dependencies
 
-**🧩 Tech Stack
-Category	                  Tools / Libraries**
+**🧩 Tech Stack**
+
+**Category	                  Tools / Libraries**
 Frontend	                  HTML, CSS, JavaScript
 
 Backend	                    Python (Flask Framework)
