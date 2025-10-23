@@ -58,7 +58,7 @@ pip install -r requirements.txt
 python app.py
 
 
-Then open your browser and visit → http://127.0.0.1:5000
+Then open your browser and visit → [http://127.0.0.1:5000](http://localhost:8501/#priority-distribution-demo)
 
 📊 Sample Output
 
