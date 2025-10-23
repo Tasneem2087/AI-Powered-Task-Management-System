@@ -1,0 +1,1001 @@
+id,title,description,tag,estimated_hours,created_at,due_date,days_left,priority,type,assignee
+TASK0001,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,4,2025-10-03,2025-10-11,-12,Medium,bug,Alice
+TASK0002,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,research,6,2025-10-02,2025-10-04,-19,Medium,bug,Bob
+TASK0003,Refactor auth module,Allow users to export orders in CSV and Excel format.,backend,8,2025-10-16,2025-10-23,0,High,feature,Esha
+TASK0004,Database migration,Design and implement onboarding wizard for new users.,research,4,2025-10-10,2025-10-11,-12,Medium,feature,Bob
+TASK0005,Investigate crash on submit,Speed up image loading using lazy loading and compression.,devops,2,2025-10-01,2025-10-08,-15,Medium,chore,Chitra
+TASK0006,Add search feature,App crashes intermittently when submitting large form payloads.,backend,4,2025-10-20,2025-11-01,9,Low,feature,Alice
+TASK0007,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,backend,6,2025-09-30,2025-10-03,-20,Medium,feature,Esha
+TASK0008,Optimize image loading,Allow users to export orders in CSV and Excel format.,frontend,12,2025-09-25,2025-09-28,-25,High,bug,Bob
+TASK0009,Write unit tests,Need to implement a search bar with fuzzy matching and filters.,ux,2,2025-09-29,2025-10-03,-20,Medium,feature,Dev
+TASK0010,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,4,2025-10-03,2025-10-10,-13,Medium,feature,Alice
+TASK0011,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,data,2,2025-10-04,2025-10-10,-13,Medium,feature,Chitra
+TASK0012,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,data,4,2025-09-24,2025-09-26,-27,Medium,bug,Alice
+TASK0013,Optimize image loading,App crashes intermittently when submitting large form payloads.,devops,1,2025-09-28,2025-10-05,-18,Medium,chore,Esha
+TASK0014,Optimize image loading,Add migration scripts to move old schema to new one. Ensure backups.,data,6,2025-09-25,2025-10-08,-15,Medium,chore,Dev
+TASK0015,Write unit tests,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,12,2025-10-19,2025-11-06,14,Low,feature,Esha
+TASK0016,Add export CSV,App crashes intermittently when submitting large form payloads.,devops,2,2025-10-10,2025-10-15,-8,Medium,feature,Alice
+TASK0017,Fix login error,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-09-29,2025-10-05,-18,High,feature,Dev
+TASK0018,Add search feature,App crashes intermittently when submitting large form payloads.,testing,8,2025-10-04,2025-10-19,-4,High,feature,Esha
+TASK0019,Fix login error,Need to implement a search bar with fuzzy matching and filters.,data,8,2025-09-26,2025-10-05,-18,High,feature,Chitra
+TASK0020,Write unit tests,App crashes intermittently when submitting large form payloads.,frontend,6,2025-10-20,2025-10-21,-2,Medium,chore,Chitra
+TASK0021,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,backend,12,2025-10-07,2025-10-17,-6,High,chore,Esha
+TASK0022,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,2,2025-10-04,2025-10-22,-1,Medium,chore,Esha
+TASK0023,Fix login error,Allow users to export orders in CSV and Excel format.,devops,6,2025-09-24,2025-09-25,-28,Medium,bug,Chitra
+TASK0024,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,backend,2,2025-09-25,2025-10-14,-9,Medium,chore,Alice
+TASK0025,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,ux,8,2025-09-30,2025-10-05,-18,High,bug,Dev
+TASK0026,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,8,2025-09-23,2025-10-13,-10,High,feature,Bob
+TASK0027,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,data,4,2025-09-24,2025-10-07,-16,Medium,chore,Chitra
+TASK0028,Refactor auth module,Design and implement onboarding wizard for new users.,backend,2,2025-10-09,2025-10-17,-6,Medium,bug,Alice
+TASK0029,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,research,2,2025-10-05,2025-10-06,-17,Medium,bug,Alice
+TASK0030,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,4,2025-10-16,2025-10-19,-4,Medium,feature,Chitra
+TASK0031,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,research,2,2025-10-02,2025-10-21,-2,Medium,feature,Bob
+TASK0032,Create onboarding flow,App crashes intermittently when submitting large form payloads.,frontend,1,2025-09-28,2025-10-02,-21,Medium,feature,Chitra
+TASK0033,Investigate crash on submit,Design and implement onboarding wizard for new users.,ux,12,2025-10-10,2025-10-12,-11,High,feature,Alice
+TASK0034,Investigate crash on submit,Speed up image loading using lazy loading and compression.,ux,1,2025-10-22,2025-10-30,7,Low,bug,Esha
+TASK0035,Update user profile UI,App crashes intermittently when submitting large form payloads.,frontend,4,2025-10-09,2025-10-24,1,Medium,bug,Alice
+TASK0036,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,backend,12,2025-10-09,2025-10-27,4,High,chore,Alice
+TASK0037,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,6,2025-09-24,2025-10-10,-13,Medium,bug,Dev
+TASK0038,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,1,2025-09-25,2025-10-08,-15,Medium,bug,Dev
+TASK0039,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,data,12,2025-10-14,2025-10-30,7,Low,bug,Chitra
+TASK0040,Fix login error,Allow users to export orders in CSV and Excel format.,data,8,2025-10-17,2025-10-19,-4,High,feature,Alice
+TASK0041,Add export CSV,Design and implement onboarding wizard for new users.,research,8,2025-10-22,2025-10-28,5,Medium,bug,Esha
+TASK0042,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,research,1,2025-10-21,2025-10-29,6,Low,feature,Esha
+TASK0043,Add export CSV,Allow users to export orders in CSV and Excel format.,backend,8,2025-10-16,2025-10-19,-4,High,feature,Esha
+TASK0044,Refactor auth module,Speed up image loading using lazy loading and compression.,devops,2,2025-10-05,2025-10-16,-7,Medium,bug,Dev
+TASK0045,Write unit tests,Design and implement onboarding wizard for new users.,devops,1,2025-10-19,2025-10-20,-3,Medium,feature,Esha
+TASK0046,Add search feature,Refactor authentication flow to use OAuth2 best practices.,frontend,8,2025-10-20,2025-10-29,6,Low,bug,Chitra
+TASK0047,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,devops,4,2025-09-25,2025-10-01,-22,Medium,feature,Esha
+TASK0048,Write unit tests,Allow users to export orders in CSV and Excel format.,ux,12,2025-10-01,2025-10-18,-5,High,bug,Esha
+TASK0049,Add search feature,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,1,2025-10-14,2025-10-18,-5,Medium,feature,Bob
+TASK0050,Write unit tests,Allow users to export orders in CSV and Excel format.,frontend,12,2025-10-15,2025-10-26,3,Medium,bug,Chitra
+TASK0051,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,ux,1,2025-10-07,2025-10-10,-13,Medium,feature,Chitra
+TASK0052,Fix login error,Speed up image loading using lazy loading and compression.,ux,2,2025-10-22,2025-10-31,8,Low,bug,Dev
+TASK0053,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,backend,1,2025-10-06,2025-10-09,-14,Medium,chore,Bob
+TASK0054,Fix login error,Speed up image loading using lazy loading and compression.,research,8,2025-10-06,2025-10-11,-12,High,feature,Alice
+TASK0055,Optimize image loading,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,2,2025-10-14,2025-10-22,-1,Medium,feature,Chitra
+TASK0056,Refactor auth module,App crashes intermittently when submitting large form payloads.,research,12,2025-09-29,2025-10-04,-19,High,chore,Bob
+TASK0057,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,1,2025-09-26,2025-10-02,-21,Medium,feature,Chitra
+TASK0058,Investigate crash on submit,Add migration scripts to move old schema to new one. Ensure backups.,devops,2,2025-09-28,2025-10-02,-21,Medium,feature,Alice
+TASK0059,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,frontend,6,2025-09-26,2025-10-08,-15,Medium,bug,Bob
+TASK0060,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,testing,4,2025-10-16,2025-10-25,2,Medium,chore,Chitra
+TASK0061,Refactor auth module,App crashes intermittently when submitting large form payloads.,data,8,2025-10-12,2025-10-23,0,High,chore,Alice
+TASK0062,Write unit tests,Profile page layout looks cramped on mobile devices. Improve spacing.,research,4,2025-09-25,2025-09-27,-26,Medium,bug,Dev
+TASK0063,Optimize image loading,App crashes intermittently when submitting large form payloads.,research,8,2025-10-12,2025-10-16,-7,High,feature,Esha
+TASK0064,Write unit tests,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,6,2025-10-17,2025-10-18,-5,Medium,feature,Esha
+TASK0065,Database migration,Speed up image loading using lazy loading and compression.,testing,1,2025-10-02,2025-10-13,-10,Medium,feature,Alice
+TASK0066,Write unit tests,Refactor authentication flow to use OAuth2 best practices.,devops,12,2025-09-30,2025-10-14,-9,High,bug,Chitra
+TASK0067,Update user profile UI,Add migration scripts to move old schema to new one. Ensure backups.,testing,12,2025-10-06,2025-10-19,-4,High,feature,Bob
+TASK0068,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,testing,8,2025-10-04,2025-10-05,-18,High,bug,Bob
+TASK0069,Add export CSV,Allow users to export orders in CSV and Excel format.,data,4,2025-10-10,2025-10-25,2,Medium,feature,Bob
+TASK0070,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,data,1,2025-10-07,2025-10-17,-6,Medium,feature,Esha
+TASK0071,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,data,4,2025-10-13,2025-10-21,-2,Medium,chore,Bob
+TASK0072,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,testing,8,2025-10-23,2025-10-26,3,Medium,feature,Esha
+TASK0073,Investigate crash on submit,Design and implement onboarding wizard for new users.,testing,2,2025-10-17,2025-10-22,-1,Medium,feature,Alice
+TASK0074,Add search feature,App crashes intermittently when submitting large form payloads.,frontend,2,2025-09-25,2025-10-12,-11,Medium,feature,Esha
+TASK0075,Add search feature,Design and implement onboarding wizard for new users.,frontend,6,2025-10-16,2025-11-02,10,Low,chore,Esha
+TASK0076,Create onboarding flow,Allow users to export orders in CSV and Excel format.,ux,12,2025-10-13,2025-10-30,7,Low,feature,Esha
+TASK0077,Update user profile UI,Design and implement onboarding wizard for new users.,testing,4,2025-10-09,2025-10-17,-6,Medium,chore,Chitra
+TASK0078,Refactor auth module,Design and implement onboarding wizard for new users.,data,2,2025-09-29,2025-10-08,-15,Medium,feature,Chitra
+TASK0079,Write unit tests,Speed up image loading using lazy loading and compression.,devops,8,2025-10-16,2025-10-19,-4,High,bug,Bob
+TASK0080,Update user profile UI,Add migration scripts to move old schema to new one. Ensure backups.,backend,6,2025-10-11,2025-10-25,2,Medium,bug,Dev
+TASK0081,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,ux,6,2025-10-10,2025-10-23,0,Medium,chore,Esha
+TASK0082,Fix login error,Allow users to export orders in CSV and Excel format.,testing,6,2025-09-23,2025-09-24,-29,Medium,chore,Chitra
+TASK0083,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,research,12,2025-09-29,2025-10-17,-6,High,feature,Bob
+TASK0084,Database migration,Add unit tests for payment module to improve coverage to 80%.,testing,6,2025-10-08,2025-10-09,-14,Medium,feature,Dev
+TASK0085,Update user profile UI,Design and implement onboarding wizard for new users.,frontend,8,2025-09-30,2025-10-18,-5,High,bug,Dev
+TASK0086,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",backend,12,2025-10-05,2025-10-19,-4,High,bug,Dev
+TASK0087,Fix login error,Add unit tests for payment module to improve coverage to 80%.,testing,4,2025-10-18,2025-10-25,2,Medium,feature,Chitra
+TASK0088,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,ux,6,2025-09-29,2025-10-08,-15,Medium,chore,Dev
+TASK0089,Refactor auth module,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,2,2025-10-23,2025-10-26,3,Medium,feature,Alice
+TASK0090,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,frontend,1,2025-09-29,2025-10-19,-4,Medium,bug,Bob
+TASK0091,Add search feature,Allow users to export orders in CSV and Excel format.,frontend,6,2025-10-08,2025-10-17,-6,Medium,feature,Bob
+TASK0092,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,ux,2,2025-10-04,2025-10-14,-9,Medium,bug,Alice
+TASK0093,Write unit tests,Allow users to export orders in CSV and Excel format.,data,6,2025-09-24,2025-10-07,-16,Medium,chore,Bob
+TASK0094,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,backend,12,2025-10-21,2025-10-31,8,Medium,chore,Esha
+TASK0095,Add search feature,Allow users to export orders in CSV and Excel format.,ux,1,2025-09-28,2025-10-10,-13,Medium,feature,Chitra
+TASK0096,Refactor auth module,Speed up image loading using lazy loading and compression.,backend,6,2025-10-21,2025-11-06,14,Low,bug,Chitra
+TASK0097,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,2,2025-10-03,2025-10-20,-3,Medium,chore,Chitra
+TASK0098,Refactor auth module,Design and implement onboarding wizard for new users.,testing,6,2025-10-04,2025-10-23,0,Medium,bug,Bob
+TASK0099,Add search feature,Add unit tests for payment module to improve coverage to 80%.,testing,2,2025-09-27,2025-10-12,-11,Medium,feature,Dev
+TASK0100,Fix login error,Design and implement onboarding wizard for new users.,ux,4,2025-10-13,2025-10-19,-4,Medium,feature,Chitra
+TASK0101,Write unit tests,Speed up image loading using lazy loading and compression.,devops,8,2025-09-28,2025-10-07,-16,High,feature,Esha
+TASK0102,Database migration,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-09-23,2025-10-07,-16,High,feature,Bob
+TASK0103,Create onboarding flow,Design and implement onboarding wizard for new users.,testing,1,2025-10-01,2025-10-04,-19,Medium,bug,Dev
+TASK0104,Database migration,Add unit tests for payment module to improve coverage to 80%.,data,8,2025-10-01,2025-10-13,-10,High,feature,Esha
+TASK0105,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,devops,4,2025-10-12,2025-10-27,4,Medium,bug,Chitra
+TASK0106,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,devops,1,2025-10-16,2025-11-03,11,Low,chore,Bob
+TASK0107,Database migration,Design and implement onboarding wizard for new users.,devops,12,2025-10-17,2025-11-05,13,Medium,chore,Esha
+TASK0108,Write unit tests,Need to implement a search bar with fuzzy matching and filters.,ux,2,2025-10-04,2025-10-14,-9,Medium,bug,Bob
+TASK0109,Fix login error,Refactor authentication flow to use OAuth2 best practices.,frontend,4,2025-10-14,2025-10-16,-7,Medium,chore,Esha
+TASK0110,Update user profile UI,Design and implement onboarding wizard for new users.,backend,1,2025-10-14,2025-11-02,10,Low,bug,Dev
+TASK0111,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,4,2025-10-09,2025-10-25,2,Medium,bug,Alice
+TASK0112,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,research,12,2025-10-11,2025-10-13,-10,High,bug,Esha
+TASK0113,Write unit tests,Need to implement a search bar with fuzzy matching and filters.,frontend,1,2025-09-23,2025-10-11,-12,Medium,feature,Esha
+TASK0114,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,ux,8,2025-10-04,2025-10-17,-6,High,feature,Dev
+TASK0115,Add export CSV,App crashes intermittently when submitting large form payloads.,devops,8,2025-10-14,2025-11-03,11,Medium,bug,Alice
+TASK0116,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,devops,12,2025-09-23,2025-09-26,-27,High,bug,Bob
+TASK0117,Add search feature,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,6,2025-10-06,2025-10-21,-2,Medium,feature,Dev
+TASK0118,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,devops,12,2025-10-14,2025-10-24,1,High,feature,Dev
+TASK0119,Database migration,Add unit tests for payment module to improve coverage to 80%.,ux,12,2025-10-21,2025-11-09,17,Low,feature,Bob
+TASK0120,Add search feature,Refactor authentication flow to use OAuth2 best practices.,frontend,12,2025-10-10,2025-10-15,-8,High,chore,Bob
+TASK0121,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,4,2025-10-21,2025-11-10,18,Low,feature,Esha
+TASK0122,Write unit tests,Design and implement onboarding wizard for new users.,backend,6,2025-09-24,2025-10-04,-19,Medium,feature,Chitra
+TASK0123,Refactor auth module,Design and implement onboarding wizard for new users.,testing,1,2025-10-07,2025-10-27,4,Low,bug,Dev
+TASK0124,Optimize image loading,Allow users to export orders in CSV and Excel format.,devops,1,2025-09-30,2025-10-03,-20,Medium,bug,Esha
+TASK0125,Fix login error,Add unit tests for payment module to improve coverage to 80%.,research,1,2025-10-05,2025-10-11,-12,Medium,feature,Dev
+TASK0126,Write unit tests,Profile page layout looks cramped on mobile devices. Improve spacing.,research,6,2025-09-24,2025-10-10,-13,Medium,chore,Dev
+TASK0127,Investigate crash on submit,Speed up image loading using lazy loading and compression.,devops,12,2025-10-12,2025-10-16,-7,High,chore,Chitra
+TASK0128,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,data,6,2025-10-10,2025-10-28,5,Low,bug,Alice
+TASK0129,Write unit tests,Speed up image loading using lazy loading and compression.,backend,6,2025-10-13,2025-10-30,7,Low,chore,Alice
+TASK0130,Refactor auth module,Design and implement onboarding wizard for new users.,testing,1,2025-10-02,2025-10-09,-14,Medium,feature,Esha
+TASK0131,Create onboarding flow,Design and implement onboarding wizard for new users.,ux,1,2025-09-29,2025-10-06,-17,Medium,bug,Bob
+TASK0132,Write unit tests,Design and implement onboarding wizard for new users.,data,6,2025-09-24,2025-09-28,-25,Medium,bug,Esha
+TASK0133,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,8,2025-09-28,2025-09-29,-24,High,feature,Alice
+TASK0134,Add search feature,Design and implement onboarding wizard for new users.,backend,12,2025-10-16,2025-10-21,-2,High,feature,Chitra
+TASK0135,Write unit tests,App crashes intermittently when submitting large form payloads.,ux,6,2025-10-07,2025-10-23,0,Medium,bug,Esha
+TASK0136,Investigate crash on submit,Add migration scripts to move old schema to new one. Ensure backups.,research,8,2025-10-19,2025-10-24,1,High,chore,Chitra
+TASK0137,Investigate crash on submit,Speed up image loading using lazy loading and compression.,ux,8,2025-09-29,2025-10-08,-15,High,chore,Chitra
+TASK0138,Write unit tests,Allow users to export orders in CSV and Excel format.,research,12,2025-09-30,2025-10-16,-7,High,chore,Dev
+TASK0139,Create onboarding flow,Speed up image loading using lazy loading and compression.,devops,8,2025-10-06,2025-10-24,1,High,feature,Chitra
+TASK0140,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,research,6,2025-09-26,2025-10-04,-19,Medium,chore,Dev
+TASK0141,Optimize image loading,Design and implement onboarding wizard for new users.,data,6,2025-10-22,2025-11-04,12,Low,chore,Bob
+TASK0142,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,research,8,2025-10-08,2025-10-19,-4,High,chore,Dev
+TASK0143,Refactor auth module,Design and implement onboarding wizard for new users.,backend,12,2025-10-20,2025-10-25,2,High,feature,Bob
+TASK0144,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,devops,8,2025-10-21,2025-11-03,11,Medium,feature,Chitra
+TASK0145,Refactor auth module,App crashes intermittently when submitting large form payloads.,devops,12,2025-09-26,2025-10-12,-11,High,chore,Alice
+TASK0146,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,data,12,2025-10-04,2025-10-14,-9,High,chore,Alice
+TASK0147,Add search feature,Need to implement a search bar with fuzzy matching and filters.,testing,2,2025-10-10,2025-10-20,-3,Medium,chore,Alice
+TASK0148,Fix login error,Add unit tests for payment module to improve coverage to 80%.,devops,4,2025-10-13,2025-10-27,4,Medium,bug,Esha
+TASK0149,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,2,2025-10-10,2025-10-13,-10,Medium,feature,Dev
+TASK0150,Database migration,Design and implement onboarding wizard for new users.,research,2,2025-10-04,2025-10-12,-11,Medium,feature,Chitra
+TASK0151,Write unit tests,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,6,2025-10-09,2025-10-19,-4,Medium,feature,Bob
+TASK0152,Create onboarding flow,Speed up image loading using lazy loading and compression.,research,4,2025-10-21,2025-11-04,12,Low,feature,Dev
+TASK0153,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,testing,6,2025-09-26,2025-09-30,-23,Medium,bug,Esha
+TASK0154,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,data,4,2025-10-12,2025-10-13,-10,Medium,chore,Dev
+TASK0155,Fix login error,Allow users to export orders in CSV and Excel format.,ux,12,2025-10-15,2025-10-17,-6,High,chore,Dev
+TASK0156,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,research,4,2025-09-27,2025-10-05,-18,Medium,feature,Esha
+TASK0157,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,data,12,2025-10-15,2025-10-17,-6,High,bug,Dev
+TASK0158,Add export CSV,Speed up image loading using lazy loading and compression.,data,2,2025-10-22,2025-10-25,2,Medium,chore,Chitra
+TASK0159,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,2,2025-09-30,2025-10-18,-5,Medium,chore,Chitra
+TASK0160,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,ux,2,2025-10-07,2025-10-16,-7,Medium,chore,Dev
+TASK0161,Write unit tests,Speed up image loading using lazy loading and compression.,ux,1,2025-09-23,2025-10-08,-15,Medium,chore,Bob
+TASK0162,Database migration,App crashes intermittently when submitting large form payloads.,ux,8,2025-09-29,2025-10-11,-12,High,bug,Dev
+TASK0163,Write unit tests,Refactor authentication flow to use OAuth2 best practices.,backend,6,2025-10-23,2025-11-04,12,Low,feature,Chitra
+TASK0164,Investigate crash on submit,Speed up image loading using lazy loading and compression.,backend,12,2025-10-05,2025-10-13,-10,High,feature,Esha
+TASK0165,Refactor auth module,Speed up image loading using lazy loading and compression.,research,2,2025-09-25,2025-09-28,-25,Medium,feature,Dev
+TASK0166,Write unit tests,App crashes intermittently when submitting large form payloads.,backend,2,2025-09-24,2025-09-26,-27,Medium,chore,Chitra
+TASK0167,Add search feature,Need to implement a search bar with fuzzy matching and filters.,frontend,8,2025-10-08,2025-10-13,-10,High,feature,Chitra
+TASK0168,Refactor auth module,App crashes intermittently when submitting large form payloads.,research,12,2025-10-02,2025-10-07,-16,High,chore,Alice
+TASK0169,Create onboarding flow,Allow users to export orders in CSV and Excel format.,testing,4,2025-09-27,2025-09-29,-24,Medium,feature,Bob
+TASK0170,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,ux,4,2025-10-09,2025-10-13,-10,Medium,chore,Chitra
+TASK0171,Optimize image loading,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",testing,4,2025-10-06,2025-10-13,-10,Medium,chore,Dev
+TASK0172,Database migration,Allow users to export orders in CSV and Excel format.,backend,1,2025-10-21,2025-11-01,9,Low,bug,Bob
+TASK0173,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,backend,8,2025-09-28,2025-10-05,-18,High,feature,Bob
+TASK0174,Update user profile UI,Allow users to export orders in CSV and Excel format.,backend,4,2025-10-13,2025-10-18,-6,Medium,chore,Esha
+TASK0175,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,data,1,2025-10-15,2025-10-20,-3,Medium,bug,Bob
+TASK0176,Optimize image loading,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,4,2025-10-05,2025-10-07,-16,Medium,bug,Dev
+TASK0177,Add search feature,Need to implement a search bar with fuzzy matching and filters.,testing,6,2025-10-07,2025-10-19,-4,Medium,feature,Alice
+TASK0178,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,research,1,2025-10-09,2025-10-26,3,Low,bug,Alice
+TASK0179,Create onboarding flow,App crashes intermittently when submitting large form payloads.,testing,12,2025-10-22,2025-10-26,3,Medium,feature,Dev
+TASK0180,Add search feature,Speed up image loading using lazy loading and compression.,research,2,2025-10-21,2025-10-24,1,Medium,bug,Esha
+TASK0181,Add export CSV,Refactor authentication flow to use OAuth2 best practices.,data,4,2025-10-03,2025-10-16,-7,Medium,chore,Esha
+TASK0182,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,research,6,2025-10-14,2025-10-18,-5,Medium,feature,Alice
+TASK0183,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,testing,6,2025-09-26,2025-10-04,-19,Medium,feature,Dev
+TASK0184,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,devops,6,2025-10-11,2025-10-22,-1,Medium,feature,Chitra
+TASK0185,Update user profile UI,Design and implement onboarding wizard for new users.,backend,1,2025-09-23,2025-09-26,-27,Medium,bug,Alice
+TASK0186,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,research,1,2025-09-30,2025-10-19,-4,Medium,chore,Esha
+TASK0187,Add search feature,App crashes intermittently when submitting large form payloads.,devops,12,2025-10-13,2025-10-27,4,High,chore,Alice
+TASK0188,Write unit tests,Allow users to export orders in CSV and Excel format.,devops,4,2025-09-23,2025-09-27,-26,Medium,feature,Bob
+TASK0189,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,ux,1,2025-10-19,2025-10-31,8,Low,chore,Chitra
+TASK0190,Write unit tests,Allow users to export orders in CSV and Excel format.,frontend,6,2025-10-20,2025-11-07,15,Low,chore,Esha
+TASK0191,Refactor auth module,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,12,2025-10-04,2025-10-13,-10,High,bug,Chitra
+TASK0192,Write unit tests,Speed up image loading using lazy loading and compression.,devops,1,2025-10-01,2025-10-07,-16,Medium,chore,Esha
+TASK0193,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-10-02,2025-10-03,-20,High,bug,Esha
+TASK0194,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,testing,4,2025-10-17,2025-10-23,0,Medium,feature,Chitra
+TASK0195,Add export CSV,Allow users to export orders in CSV and Excel format.,backend,1,2025-09-29,2025-10-04,-19,Medium,bug,Esha
+TASK0196,Add search feature,Add unit tests for payment module to improve coverage to 80%.,testing,12,2025-10-22,2025-11-05,13,Low,feature,Dev
+TASK0197,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,ux,8,2025-10-10,2025-10-14,-9,High,bug,Alice
+TASK0198,Add export CSV,Design and implement onboarding wizard for new users.,research,12,2025-10-14,2025-10-24,1,High,bug,Dev
+TASK0199,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,4,2025-10-04,2025-10-11,-12,Medium,feature,Chitra
+TASK0200,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,backend,6,2025-10-14,2025-10-28,5,Medium,bug,Dev
+TASK0201,Database migration,Refactor authentication flow to use OAuth2 best practices.,research,12,2025-10-06,2025-10-18,-5,High,bug,Alice
+TASK0202,Fix login error,Design and implement onboarding wizard for new users.,backend,4,2025-10-10,2025-10-29,6,Low,feature,Dev
+TASK0203,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,backend,6,2025-10-01,2025-10-02,-21,Medium,chore,Bob
+TASK0204,Add export CSV,Design and implement onboarding wizard for new users.,ux,12,2025-09-28,2025-10-10,-13,High,bug,Alice
+TASK0205,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,testing,8,2025-10-16,2025-10-19,-4,High,feature,Chitra
+TASK0206,Optimize image loading,Add migration scripts to move old schema to new one. Ensure backups.,devops,2,2025-09-30,2025-10-03,-20,Medium,feature,Alice
+TASK0207,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,ux,4,2025-10-07,2025-10-19,-4,Medium,feature,Bob
+TASK0208,Add search feature,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,2,2025-10-16,2025-10-22,-1,Medium,feature,Alice
+TASK0209,Create onboarding flow,Design and implement onboarding wizard for new users.,ux,8,2025-10-18,2025-11-06,14,Low,feature,Esha
+TASK0210,Add export CSV,Speed up image loading using lazy loading and compression.,ux,12,2025-10-03,2025-10-14,-9,High,bug,Alice
+TASK0211,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,ux,4,2025-10-08,2025-10-27,4,Low,bug,Esha
+TASK0212,Write unit tests,Design and implement onboarding wizard for new users.,testing,1,2025-10-21,2025-10-23,0,Medium,feature,Chitra
+TASK0213,Add search feature,Allow users to export orders in CSV and Excel format.,research,8,2025-10-21,2025-11-03,11,Low,feature,Esha
+TASK0214,Fix login error,Design and implement onboarding wizard for new users.,ux,8,2025-09-23,2025-09-30,-23,High,bug,Dev
+TASK0215,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",testing,1,2025-10-07,2025-10-18,-5,Medium,chore,Alice
+TASK0216,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,12,2025-10-07,2025-10-22,-1,High,chore,Esha
+TASK0217,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,4,2025-10-07,2025-10-17,-6,Medium,feature,Chitra
+TASK0218,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,12,2025-10-02,2025-10-13,-10,High,bug,Alice
+TASK0219,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,devops,12,2025-10-06,2025-10-26,3,High,chore,Chitra
+TASK0220,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,4,2025-10-21,2025-11-03,11,Low,bug,Alice
+TASK0221,Refactor auth module,App crashes intermittently when submitting large form payloads.,data,4,2025-10-14,2025-10-19,-4,Medium,feature,Esha
+TASK0222,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,devops,1,2025-10-21,2025-11-02,10,Low,bug,Bob
+TASK0223,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,frontend,2,2025-10-13,2025-10-18,-5,Medium,bug,Alice
+TASK0224,Refactor auth module,Refactor authentication flow to use OAuth2 best practices.,backend,12,2025-10-07,2025-10-18,-5,High,chore,Esha
+TASK0225,Add export CSV,App crashes intermittently when submitting large form payloads.,frontend,2,2025-10-19,2025-10-25,2,Medium,chore,Esha
+TASK0226,Update user profile UI,Design and implement onboarding wizard for new users.,backend,6,2025-09-28,2025-10-10,-13,Medium,feature,Bob
+TASK0227,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,ux,12,2025-10-09,2025-10-24,1,High,bug,Bob
+TASK0228,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,devops,12,2025-10-14,2025-11-02,10,Medium,chore,Dev
+TASK0229,Write unit tests,App crashes intermittently when submitting large form payloads.,research,8,2025-09-29,2025-10-13,-10,High,chore,Bob
+TASK0230,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,4,2025-09-28,2025-09-30,-23,Medium,feature,Chitra
+TASK0231,Add search feature,Refactor authentication flow to use OAuth2 best practices.,ux,1,2025-10-06,2025-10-16,-7,Medium,bug,Bob
+TASK0232,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,frontend,6,2025-10-15,2025-10-18,-5,Medium,chore,Bob
+TASK0233,Create onboarding flow,Speed up image loading using lazy loading and compression.,backend,6,2025-09-27,2025-09-29,-24,Medium,feature,Chitra
+TASK0234,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,devops,2,2025-10-16,2025-10-17,-6,Medium,bug,Alice
+TASK0235,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,1,2025-09-27,2025-10-07,-16,Medium,chore,Dev
+TASK0236,Update user profile UI,Design and implement onboarding wizard for new users.,testing,8,2025-10-01,2025-10-02,-21,High,chore,Alice
+TASK0237,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,research,12,2025-10-15,2025-11-04,12,Low,feature,Alice
+TASK0238,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,devops,1,2025-09-29,2025-10-01,-22,Medium,bug,Esha
+TASK0239,Add search feature,Need to implement a search bar with fuzzy matching and filters.,ux,6,2025-10-09,2025-10-29,6,Low,feature,Esha
+TASK0240,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,6,2025-10-05,2025-10-06,-17,Medium,feature,Bob
+TASK0241,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,data,12,2025-10-05,2025-10-08,-15,High,feature,Chitra
+TASK0242,Refactor auth module,Refactor authentication flow to use OAuth2 best practices.,research,8,2025-10-21,2025-11-08,16,Low,bug,Dev
+TASK0243,Investigate crash on submit,Speed up image loading using lazy loading and compression.,devops,12,2025-10-22,2025-10-23,0,High,feature,Alice
+TASK0244,Database migration,Need to implement a search bar with fuzzy matching and filters.,ux,8,2025-10-12,2025-10-23,0,High,bug,Chitra
+TASK0245,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,12,2025-10-06,2025-10-21,-2,High,chore,Dev
+TASK0246,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,12,2025-10-03,2025-10-18,-5,High,bug,Bob
+TASK0247,Database migration,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,4,2025-10-22,2025-11-08,16,Low,feature,Esha
+TASK0248,Write unit tests,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,12,2025-10-08,2025-10-15,-8,High,bug,Alice
+TASK0249,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,backend,4,2025-09-26,2025-10-10,-13,Medium,chore,Dev
+TASK0250,Investigate crash on submit,Speed up image loading using lazy loading and compression.,frontend,6,2025-09-25,2025-10-11,-12,Medium,feature,Esha
+TASK0251,Add search feature,App crashes intermittently when submitting large form payloads.,backend,6,2025-10-15,2025-11-04,12,Low,chore,Bob
+TASK0252,Write unit tests,Speed up image loading using lazy loading and compression.,backend,1,2025-10-06,2025-10-17,-6,Medium,feature,Chitra
+TASK0253,Add export CSV,App crashes intermittently when submitting large form payloads.,frontend,12,2025-10-09,2025-10-24,1,High,feature,Alice
+TASK0254,Optimize image loading,Allow users to export orders in CSV and Excel format.,testing,4,2025-09-30,2025-10-02,-21,Medium,bug,Dev
+TASK0255,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,2,2025-10-12,2025-11-01,9,Low,feature,Dev
+TASK0256,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-10-22,2025-11-03,11,Low,feature,Esha
+TASK0257,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,data,6,2025-10-22,2025-11-03,11,Low,feature,Alice
+TASK0258,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,devops,6,2025-10-05,2025-10-16,-7,Medium,feature,Bob
+TASK0259,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,2,2025-09-23,2025-10-09,-14,Medium,feature,Esha
+TASK0260,Write unit tests,Add unit tests for payment module to improve coverage to 80%.,data,6,2025-10-20,2025-10-27,4,Low,chore,Chitra
+TASK0261,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,backend,2,2025-10-01,2025-10-04,-19,Medium,feature,Dev
+TASK0262,Optimize image loading,Speed up image loading using lazy loading and compression.,data,1,2025-10-21,2025-11-08,16,Low,feature,Chitra
+TASK0263,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,4,2025-09-26,2025-10-13,-10,Medium,bug,Bob
+TASK0264,Update user profile UI,Add migration scripts to move old schema to new one. Ensure backups.,ux,6,2025-09-28,2025-09-29,-24,Medium,feature,Esha
+TASK0265,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,frontend,8,2025-10-12,2025-10-15,-8,High,bug,Dev
+TASK0266,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,testing,6,2025-10-01,2025-10-20,-3,Medium,bug,Chitra
+TASK0267,Add search feature,Design and implement onboarding wizard for new users.,testing,12,2025-10-03,2025-10-20,-3,High,bug,Esha
+TASK0268,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,2,2025-10-03,2025-10-17,-6,Medium,feature,Alice
+TASK0269,Add search feature,Refactor authentication flow to use OAuth2 best practices.,frontend,4,2025-09-27,2025-10-03,-20,Medium,bug,Bob
+TASK0270,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,ux,1,2025-10-12,2025-10-21,-2,Medium,bug,Esha
+TASK0271,Update user profile UI,Add unit tests for payment module to improve coverage to 80%.,research,8,2025-10-15,2025-10-18,-5,High,feature,Bob
+TASK0272,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,12,2025-10-05,2025-10-25,2,High,feature,Esha
+TASK0273,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,1,2025-10-13,2025-10-16,-7,Medium,bug,Esha
+TASK0274,Database migration,Allow users to export orders in CSV and Excel format.,testing,8,2025-10-15,2025-10-16,-7,High,feature,Esha
+TASK0275,Write unit tests,Design and implement onboarding wizard for new users.,frontend,12,2025-10-14,2025-10-27,4,Medium,bug,Alice
+TASK0276,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,6,2025-10-01,2025-10-17,-6,Medium,feature,Chitra
+TASK0277,Update user profile UI,Speed up image loading using lazy loading and compression.,ux,12,2025-10-04,2025-10-15,-8,High,feature,Chitra
+TASK0278,Update user profile UI,Speed up image loading using lazy loading and compression.,research,8,2025-10-11,2025-10-15,-8,High,bug,Dev
+TASK0279,Write unit tests,Design and implement onboarding wizard for new users.,frontend,2,2025-10-20,2025-10-24,1,Medium,bug,Dev
+TASK0280,Add export CSV,App crashes intermittently when submitting large form payloads.,frontend,2,2025-09-26,2025-10-07,-16,Medium,chore,Chitra
+TASK0281,Update user profile UI,Design and implement onboarding wizard for new users.,research,6,2025-10-17,2025-11-02,10,Low,chore,Dev
+TASK0282,Add search feature,App crashes intermittently when submitting large form payloads.,research,6,2025-10-23,2025-10-31,8,Low,bug,Chitra
+TASK0283,Fix login error,Add unit tests for payment module to improve coverage to 80%.,testing,8,2025-10-22,2025-11-07,15,Low,bug,Alice
+TASK0284,Add search feature,App crashes intermittently when submitting large form payloads.,frontend,4,2025-09-26,2025-10-08,-15,Medium,feature,Chitra
+TASK0285,Investigate crash on submit,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,8,2025-10-22,2025-10-29,6,Low,feature,Chitra
+TASK0286,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,testing,8,2025-10-21,2025-10-30,7,Low,chore,Esha
+TASK0287,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,frontend,1,2025-10-02,2025-10-15,-8,Medium,feature,Chitra
+TASK0288,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,8,2025-10-06,2025-10-23,0,High,feature,Alice
+TASK0289,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,data,4,2025-10-22,2025-11-07,15,Low,feature,Bob
+TASK0290,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,8,2025-10-04,2025-10-15,-8,High,bug,Esha
+TASK0291,Write unit tests,Allow users to export orders in CSV and Excel format.,devops,8,2025-09-30,2025-10-17,-6,High,feature,Esha
+TASK0292,Create onboarding flow,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,4,2025-10-14,2025-10-18,-5,Medium,chore,Esha
+TASK0293,Fix login error,Allow users to export orders in CSV and Excel format.,testing,4,2025-10-14,2025-11-02,10,Low,feature,Alice
+TASK0294,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,research,12,2025-10-05,2025-10-25,2,High,feature,Dev
+TASK0295,Database migration,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,12,2025-10-19,2025-10-23,0,High,bug,Dev
+TASK0296,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,12,2025-10-13,2025-10-20,-3,High,feature,Esha
+TASK0297,Create onboarding flow,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,2,2025-09-24,2025-10-11,-12,Medium,bug,Chitra
+TASK0298,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,testing,4,2025-10-02,2025-10-08,-15,Medium,feature,Esha
+TASK0299,Refactor auth module,Speed up image loading using lazy loading and compression.,data,12,2025-10-13,2025-10-22,-1,High,feature,Bob
+TASK0300,Database migration,Add unit tests for payment module to improve coverage to 80%.,research,4,2025-09-23,2025-10-01,-22,Medium,chore,Chitra
+TASK0301,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,data,12,2025-09-29,2025-10-15,-8,High,bug,Chitra
+TASK0302,Write unit tests,Add unit tests for payment module to improve coverage to 80%.,backend,8,2025-10-06,2025-10-24,1,High,feature,Dev
+TASK0303,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,1,2025-09-27,2025-10-07,-16,Medium,chore,Alice
+TASK0304,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,data,6,2025-10-12,2025-10-19,-4,Medium,bug,Esha
+TASK0305,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,frontend,1,2025-10-15,2025-11-04,11,Low,feature,Bob
+TASK0306,Fix login error,Refactor authentication flow to use OAuth2 best practices.,frontend,12,2025-10-16,2025-10-24,1,High,bug,Dev
+TASK0307,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,data,2,2025-10-13,2025-10-14,-9,Medium,chore,Bob
+TASK0308,Create onboarding flow,Design and implement onboarding wizard for new users.,data,2,2025-10-10,2025-10-20,-3,Medium,bug,Alice
+TASK0309,Add search feature,Allow users to export orders in CSV and Excel format.,frontend,8,2025-09-24,2025-09-26,-27,High,chore,Bob
+TASK0310,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,6,2025-10-10,2025-10-26,3,Low,bug,Chitra
+TASK0311,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,8,2025-09-25,2025-10-15,-8,High,bug,Chitra
+TASK0312,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,research,6,2025-10-14,2025-10-19,-4,Medium,chore,Dev
+TASK0313,Database migration,Need to implement a search bar with fuzzy matching and filters.,devops,2,2025-10-15,2025-10-30,7,Low,feature,Bob
+TASK0314,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,research,12,2025-10-23,2025-10-30,7,Low,bug,Dev
+TASK0315,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,devops,1,2025-09-27,2025-10-10,-13,Medium,feature,Bob
+TASK0316,Create onboarding flow,Speed up image loading using lazy loading and compression.,frontend,1,2025-10-19,2025-10-28,5,Low,feature,Dev
+TASK0317,Write unit tests,Speed up image loading using lazy loading and compression.,devops,8,2025-09-29,2025-10-18,-5,High,bug,Chitra
+TASK0318,Database migration,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,1,2025-10-01,2025-10-16,-7,Medium,bug,Dev
+TASK0319,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,data,1,2025-10-02,2025-10-12,-11,Medium,feature,Bob
+TASK0320,Update user profile UI,Design and implement onboarding wizard for new users.,frontend,6,2025-10-16,2025-11-05,13,Low,feature,Esha
+TASK0321,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,ux,12,2025-09-24,2025-10-01,-22,High,feature,Esha
+TASK0322,Add search feature,Refactor authentication flow to use OAuth2 best practices.,testing,8,2025-09-26,2025-10-08,-15,High,bug,Esha
+TASK0323,Fix login error,Refactor authentication flow to use OAuth2 best practices.,research,2,2025-10-20,2025-11-08,16,Low,feature,Bob
+TASK0324,Refactor auth module,Design and implement onboarding wizard for new users.,backend,12,2025-10-13,2025-10-20,-3,High,feature,Dev
+TASK0325,Refactor auth module,Design and implement onboarding wizard for new users.,ux,1,2025-10-21,2025-11-05,13,Low,bug,Dev
+TASK0326,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,6,2025-10-09,2025-10-19,-4,Medium,feature,Dev
+TASK0327,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,research,1,2025-10-15,2025-10-17,-6,Medium,feature,Alice
+TASK0328,Fix login error,Need to implement a search bar with fuzzy matching and filters.,testing,1,2025-10-06,2025-10-16,-7,Medium,feature,Bob
+TASK0329,Investigate crash on submit,Speed up image loading using lazy loading and compression.,testing,6,2025-09-29,2025-10-12,-11,Medium,feature,Esha
+TASK0330,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,frontend,8,2025-10-19,2025-11-01,9,Low,feature,Bob
+TASK0331,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,6,2025-09-27,2025-10-15,-8,Medium,feature,Dev
+TASK0332,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,testing,4,2025-09-27,2025-10-02,-21,Medium,bug,Alice
+TASK0333,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,ux,1,2025-10-22,2025-10-30,7,Low,bug,Alice
+TASK0334,Fix login error,Design and implement onboarding wizard for new users.,research,12,2025-10-04,2025-10-06,-17,High,bug,Alice
+TASK0335,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,research,2,2025-10-11,2025-10-13,-10,Medium,bug,Chitra
+TASK0336,Add export CSV,Speed up image loading using lazy loading and compression.,research,8,2025-10-16,2025-10-27,4,Medium,bug,Bob
+TASK0337,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,testing,4,2025-10-02,2025-10-11,-12,Medium,bug,Esha
+TASK0338,Update user profile UI,App crashes intermittently when submitting large form payloads.,research,6,2025-09-25,2025-09-27,-26,Medium,chore,Dev
+TASK0339,Refactor auth module,Speed up image loading using lazy loading and compression.,data,6,2025-09-28,2025-10-12,-11,Medium,bug,Dev
+TASK0340,Refactor auth module,Design and implement onboarding wizard for new users.,frontend,2,2025-10-18,2025-10-28,5,Low,chore,Bob
+TASK0341,Create onboarding flow,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,6,2025-09-28,2025-10-12,-11,Medium,feature,Bob
+TASK0342,Database migration,Add unit tests for payment module to improve coverage to 80%.,frontend,4,2025-10-11,2025-10-14,-9,Medium,chore,Chitra
+TASK0343,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,backend,4,2025-10-21,2025-11-03,11,Low,feature,Esha
+TASK0344,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,ux,8,2025-10-22,2025-11-09,17,Low,bug,Bob
+TASK0345,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,backend,2,2025-09-26,2025-10-03,-20,Medium,chore,Alice
+TASK0346,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,data,8,2025-09-30,2025-10-07,-16,High,feature,Bob
+TASK0347,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,testing,6,2025-10-06,2025-10-24,1,Medium,feature,Chitra
+TASK0348,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,testing,6,2025-10-15,2025-10-19,-4,Medium,chore,Dev
+TASK0349,Optimize image loading,Add migration scripts to move old schema to new one. Ensure backups.,devops,4,2025-09-29,2025-10-13,-10,Medium,bug,Bob
+TASK0350,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,8,2025-09-30,2025-10-19,-4,High,feature,Dev
+TASK0351,Update user profile UI,Add migration scripts to move old schema to new one. Ensure backups.,devops,2,2025-10-14,2025-10-27,4,Medium,feature,Bob
+TASK0352,Refactor auth module,Speed up image loading using lazy loading and compression.,devops,6,2025-10-08,2025-10-24,1,Medium,feature,Chitra
+TASK0353,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,testing,2,2025-10-18,2025-11-05,13,Low,chore,Alice
+TASK0354,Fix login error,Need to implement a search bar with fuzzy matching and filters.,ux,12,2025-10-07,2025-10-09,-14,High,feature,Dev
+TASK0355,Database migration,Need to implement a search bar with fuzzy matching and filters.,data,2,2025-10-19,2025-10-20,-3,Medium,bug,Dev
+TASK0356,Fix login error,Allow users to export orders in CSV and Excel format.,data,12,2025-10-12,2025-11-01,9,Low,chore,Dev
+TASK0357,Fix login error,Refactor authentication flow to use OAuth2 best practices.,research,6,2025-10-23,2025-10-24,1,Medium,bug,Chitra
+TASK0358,Write unit tests,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,12,2025-10-06,2025-10-20,-3,High,chore,Bob
+TASK0359,Add search feature,Refactor authentication flow to use OAuth2 best practices.,frontend,2,2025-10-20,2025-10-27,4,Low,feature,Chitra
+TASK0360,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,ux,6,2025-09-27,2025-09-30,-23,Medium,feature,Dev
+TASK0361,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,data,2,2025-10-09,2025-10-19,-4,Medium,feature,Alice
+TASK0362,Fix login error,Need to implement a search bar with fuzzy matching and filters.,testing,6,2025-10-03,2025-10-16,-7,Medium,feature,Alice
+TASK0363,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,6,2025-10-03,2025-10-17,-6,Medium,feature,Chitra
+TASK0364,Add search feature,Refactor authentication flow to use OAuth2 best practices.,backend,2,2025-10-05,2025-10-12,-11,Medium,chore,Esha
+TASK0365,Write unit tests,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",backend,12,2025-10-08,2025-10-17,-6,High,chore,Esha
+TASK0366,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,4,2025-10-02,2025-10-03,-20,Medium,chore,Esha
+TASK0367,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,devops,2,2025-10-19,2025-11-07,15,Low,bug,Dev
+TASK0368,Refactor auth module,Speed up image loading using lazy loading and compression.,testing,12,2025-10-02,2025-10-07,-16,High,feature,Alice
+TASK0369,Optimize image loading,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",backend,6,2025-10-07,2025-10-15,-8,Medium,chore,Chitra
+TASK0370,Add export CSV,Allow users to export orders in CSV and Excel format.,testing,4,2025-10-04,2025-10-05,-18,Medium,feature,Dev
+TASK0371,Database migration,Speed up image loading using lazy loading and compression.,research,6,2025-10-08,2025-10-22,-1,Medium,bug,Esha
+TASK0372,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,ux,8,2025-10-02,2025-10-12,-11,High,feature,Alice
+TASK0373,Write unit tests,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,12,2025-10-21,2025-10-26,3,Medium,feature,Chitra
+TASK0374,Add search feature,Need to implement a search bar with fuzzy matching and filters.,backend,4,2025-10-12,2025-10-27,4,Medium,feature,Chitra
+TASK0375,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,frontend,6,2025-10-20,2025-11-04,12,Low,feature,Esha
+TASK0376,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",backend,4,2025-10-10,2025-10-28,5,Medium,bug,Esha
+TASK0377,Optimize image loading,App crashes intermittently when submitting large form payloads.,backend,4,2025-09-28,2025-10-12,-11,Medium,feature,Alice
+TASK0378,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,research,8,2025-09-30,2025-10-06,-17,High,feature,Bob
+TASK0379,Write unit tests,Add unit tests for payment module to improve coverage to 80%.,devops,6,2025-10-19,2025-10-24,1,Medium,bug,Dev
+TASK0380,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,testing,1,2025-10-15,2025-10-27,4,Low,bug,Bob
+TASK0381,Create onboarding flow,Allow users to export orders in CSV and Excel format.,research,2,2025-09-30,2025-10-15,-8,Medium,bug,Chitra
+TASK0382,Investigate crash on submit,Speed up image loading using lazy loading and compression.,ux,8,2025-10-23,2025-11-05,13,Low,chore,Chitra
+TASK0383,Optimize image loading,App crashes intermittently when submitting large form payloads.,ux,12,2025-10-09,2025-10-29,6,Low,bug,Chitra
+TASK0384,Database migration,Design and implement onboarding wizard for new users.,devops,2,2025-10-04,2025-10-17,-6,Medium,chore,Chitra
+TASK0385,Create onboarding flow,Allow users to export orders in CSV and Excel format.,ux,2,2025-09-30,2025-10-11,-12,Medium,feature,Dev
+TASK0386,Add search feature,Allow users to export orders in CSV and Excel format.,frontend,8,2025-10-12,2025-10-30,7,Low,bug,Esha
+TASK0387,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,testing,4,2025-10-23,2025-10-26,3,Low,chore,Dev
+TASK0388,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,data,4,2025-10-02,2025-10-10,-13,Medium,bug,Bob
+TASK0389,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,backend,6,2025-10-01,2025-10-21,-2,Medium,feature,Dev
+TASK0390,Refactor auth module,App crashes intermittently when submitting large form payloads.,research,1,2025-10-06,2025-10-18,-5,Medium,feature,Esha
+TASK0391,Add search feature,Need to implement a search bar with fuzzy matching and filters.,ux,2,2025-10-04,2025-10-16,-7,Medium,bug,Esha
+TASK0392,Add export CSV,App crashes intermittently when submitting large form payloads.,ux,4,2025-10-22,2025-11-05,13,Low,bug,Alice
+TASK0393,Database migration,Refactor authentication flow to use OAuth2 best practices.,data,8,2025-10-15,2025-11-02,10,Low,feature,Esha
+TASK0394,Create onboarding flow,Speed up image loading using lazy loading and compression.,testing,6,2025-10-16,2025-11-04,12,Low,feature,Bob
+TASK0395,Fix login error,Design and implement onboarding wizard for new users.,backend,4,2025-10-12,2025-10-26,3,Medium,chore,Alice
+TASK0396,Update user profile UI,Speed up image loading using lazy loading and compression.,devops,4,2025-10-20,2025-11-04,12,Low,feature,Esha
+TASK0397,Optimize image loading,Design and implement onboarding wizard for new users.,backend,6,2025-10-08,2025-10-23,0,Medium,bug,Chitra
+TASK0398,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,4,2025-10-22,2025-10-26,3,Low,feature,Bob
+TASK0399,Database migration,Refactor authentication flow to use OAuth2 best practices.,frontend,8,2025-09-24,2025-09-30,-23,High,bug,Dev
+TASK0400,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,ux,6,2025-09-23,2025-09-29,-24,Medium,bug,Dev
+TASK0401,Fix login error,Allow users to export orders in CSV and Excel format.,frontend,6,2025-10-11,2025-10-30,7,Low,feature,Alice
+TASK0402,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,devops,12,2025-10-01,2025-10-04,-19,High,feature,Esha
+TASK0403,Optimize image loading,Speed up image loading using lazy loading and compression.,frontend,6,2025-10-18,2025-10-22,-1,Medium,bug,Dev
+TASK0404,Optimize image loading,Allow users to export orders in CSV and Excel format.,testing,8,2025-10-07,2025-10-20,-3,High,feature,Chitra
+TASK0405,Create onboarding flow,Allow users to export orders in CSV and Excel format.,frontend,12,2025-10-12,2025-10-22,-1,High,chore,Esha
+TASK0406,Update user profile UI,Speed up image loading using lazy loading and compression.,backend,2,2025-10-21,2025-10-31,8,Low,bug,Chitra
+TASK0407,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,testing,6,2025-10-01,2025-10-21,-2,Medium,bug,Dev
+TASK0408,Update user profile UI,Design and implement onboarding wizard for new users.,data,8,2025-10-10,2025-10-16,-7,High,feature,Dev
+TASK0409,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,6,2025-10-14,2025-11-03,11,Low,bug,Chitra
+TASK0410,Fix login error,Design and implement onboarding wizard for new users.,frontend,2,2025-09-23,2025-10-06,-17,Medium,chore,Esha
+TASK0411,Create onboarding flow,App crashes intermittently when submitting large form payloads.,data,6,2025-10-03,2025-10-17,-6,Medium,feature,Dev
+TASK0412,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,research,1,2025-10-08,2025-10-16,-7,Medium,bug,Chitra
+TASK0413,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,frontend,6,2025-10-16,2025-11-04,12,Low,feature,Dev
+TASK0414,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,research,1,2025-10-06,2025-10-15,-8,Medium,feature,Chitra
+TASK0415,Fix login error,Design and implement onboarding wizard for new users.,research,2,2025-10-06,2025-10-20,-3,Medium,bug,Bob
+TASK0416,Fix login error,Design and implement onboarding wizard for new users.,devops,4,2025-10-14,2025-10-17,-6,Medium,feature,Alice
+TASK0417,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,ux,12,2025-09-29,2025-10-18,-5,High,feature,Esha
+TASK0418,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,research,2,2025-10-03,2025-10-10,-13,Medium,chore,Alice
+TASK0419,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,devops,8,2025-10-05,2025-10-23,0,High,bug,Chitra
+TASK0420,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,ux,8,2025-10-14,2025-10-18,-5,High,bug,Dev
+TASK0421,Fix login error,Add unit tests for payment module to improve coverage to 80%.,ux,12,2025-09-24,2025-09-29,-24,High,feature,Bob
+TASK0422,Update user profile UI,Speed up image loading using lazy loading and compression.,ux,2,2025-10-16,2025-10-29,6,Low,feature,Esha
+TASK0423,Write unit tests,App crashes intermittently when submitting large form payloads.,testing,6,2025-10-03,2025-10-06,-17,Medium,feature,Alice
+TASK0424,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,data,4,2025-10-11,2025-10-26,3,Low,chore,Chitra
+TASK0425,Fix login error,Need to implement a search bar with fuzzy matching and filters.,data,6,2025-10-05,2025-10-17,-6,Medium,chore,Esha
+TASK0426,Database migration,App crashes intermittently when submitting large form payloads.,ux,2,2025-10-11,2025-10-27,4,Low,bug,Chitra
+TASK0427,Refactor auth module,Allow users to export orders in CSV and Excel format.,frontend,8,2025-10-13,2025-10-29,6,Low,feature,Alice
+TASK0428,Add search feature,Design and implement onboarding wizard for new users.,backend,1,2025-10-22,2025-10-28,5,Medium,feature,Alice
+TASK0429,Investigate crash on submit,Add migration scripts to move old schema to new one. Ensure backups.,data,2,2025-09-23,2025-10-03,-20,Medium,bug,Chitra
+TASK0430,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,backend,4,2025-10-21,2025-10-27,4,Medium,bug,Chitra
+TASK0431,Database migration,App crashes intermittently when submitting large form payloads.,data,1,2025-09-30,2025-10-04,-19,Medium,bug,Dev
+TASK0432,Update user profile UI,Allow users to export orders in CSV and Excel format.,frontend,8,2025-10-21,2025-11-05,13,Low,bug,Chitra
+TASK0433,Add search feature,App crashes intermittently when submitting large form payloads.,data,2,2025-09-27,2025-10-13,-10,Medium,bug,Dev
+TASK0434,Add search feature,Need to implement a search bar with fuzzy matching and filters.,devops,4,2025-10-21,2025-10-31,8,Low,bug,Bob
+TASK0435,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,research,8,2025-10-03,2025-10-04,-19,High,feature,Bob
+TASK0436,Optimize image loading,Add migration scripts to move old schema to new one. Ensure backups.,data,12,2025-10-09,2025-10-14,-9,High,chore,Esha
+TASK0437,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,backend,1,2025-10-02,2025-10-07,-16,Medium,feature,Esha
+TASK0438,Investigate crash on submit,Speed up image loading using lazy loading and compression.,testing,4,2025-09-30,2025-10-05,-18,Medium,bug,Alice
+TASK0439,Refactor auth module,Allow users to export orders in CSV and Excel format.,research,12,2025-10-16,2025-11-05,13,Low,bug,Alice
+TASK0440,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,research,8,2025-09-26,2025-10-13,-10,High,bug,Dev
+TASK0441,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,testing,6,2025-10-14,2025-10-18,-5,Medium,bug,Esha
+TASK0442,Refactor auth module,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,4,2025-10-21,2025-10-26,3,Medium,feature,Esha
+TASK0443,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,data,2,2025-10-10,2025-10-26,3,Low,chore,Alice
+TASK0444,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,backend,4,2025-10-23,2025-10-30,7,Low,bug,Alice
+TASK0445,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,devops,12,2025-09-23,2025-10-10,-13,High,feature,Dev
+TASK0446,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,data,8,2025-10-01,2025-10-19,-4,High,feature,Chitra
+TASK0447,Write unit tests,Need to implement a search bar with fuzzy matching and filters.,research,2,2025-10-21,2025-10-26,3,Low,feature,Dev
+TASK0448,Add search feature,Add unit tests for payment module to improve coverage to 80%.,data,6,2025-10-05,2025-10-13,-10,Medium,bug,Alice
+TASK0449,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,testing,8,2025-09-24,2025-10-14,-9,High,bug,Bob
+TASK0450,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,data,1,2025-10-20,2025-10-26,3,Low,feature,Chitra
+TASK0451,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,frontend,4,2025-10-07,2025-10-12,-11,Medium,feature,Chitra
+TASK0452,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,6,2025-09-30,2025-10-09,-14,Medium,feature,Chitra
+TASK0453,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,testing,6,2025-10-01,2025-10-18,-5,Medium,feature,Dev
+TASK0454,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,2,2025-09-26,2025-10-05,-18,Medium,feature,Esha
+TASK0455,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,data,8,2025-10-02,2025-10-03,-20,High,bug,Alice
+TASK0456,Fix login error,Design and implement onboarding wizard for new users.,devops,6,2025-10-16,2025-10-21,-2,Medium,bug,Alice
+TASK0457,Investigate crash on submit,Add migration scripts to move old schema to new one. Ensure backups.,devops,2,2025-10-06,2025-10-20,-3,Medium,chore,Chitra
+TASK0458,Add search feature,Allow users to export orders in CSV and Excel format.,devops,1,2025-10-15,2025-11-01,9,Low,feature,Alice
+TASK0459,Database migration,Refactor authentication flow to use OAuth2 best practices.,backend,6,2025-10-18,2025-10-21,-2,Medium,chore,Chitra
+TASK0460,Write unit tests,Speed up image loading using lazy loading and compression.,backend,8,2025-09-29,2025-10-14,-9,High,bug,Bob
+TASK0461,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,data,8,2025-10-14,2025-10-22,-1,High,feature,Esha
+TASK0462,Database migration,Refactor authentication flow to use OAuth2 best practices.,ux,2,2025-10-08,2025-10-13,-10,Medium,bug,Dev
+TASK0463,Database migration,Refactor authentication flow to use OAuth2 best practices.,devops,12,2025-10-23,2025-10-24,1,High,chore,Alice
+TASK0464,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,backend,2,2025-09-29,2025-10-16,-7,Medium,chore,Dev
+TASK0465,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,data,4,2025-10-08,2025-10-11,-12,Medium,bug,Bob
+TASK0466,Refactor auth module,App crashes intermittently when submitting large form payloads.,data,4,2025-09-25,2025-10-10,-13,Medium,chore,Alice
+TASK0467,Add search feature,Refactor authentication flow to use OAuth2 best practices.,frontend,12,2025-10-05,2025-10-18,-5,High,bug,Esha
+TASK0468,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,4,2025-10-22,2025-10-31,8,Low,chore,Dev
+TASK0469,Optimize image loading,Speed up image loading using lazy loading and compression.,testing,4,2025-10-01,2025-10-09,-14,Medium,bug,Bob
+TASK0470,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,frontend,1,2025-10-19,2025-10-25,2,Medium,feature,Chitra
+TASK0471,Add search feature,Refactor authentication flow to use OAuth2 best practices.,devops,2,2025-10-10,2025-10-25,2,Medium,bug,Chitra
+TASK0472,Add search feature,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-09-26,2025-10-06,-17,High,chore,Esha
+TASK0473,Database migration,Speed up image loading using lazy loading and compression.,frontend,1,2025-10-22,2025-10-30,7,Low,chore,Dev
+TASK0474,Fix login error,Add unit tests for payment module to improve coverage to 80%.,devops,2,2025-10-07,2025-10-08,-15,Medium,chore,Dev
+TASK0475,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,backend,6,2025-10-06,2025-10-10,-13,Medium,chore,Bob
+TASK0476,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,2,2025-10-20,2025-10-25,2,Medium,bug,Dev
+TASK0477,Add search feature,Allow users to export orders in CSV and Excel format.,research,4,2025-10-12,2025-10-15,-8,Medium,bug,Alice
+TASK0478,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,4,2025-10-17,2025-10-21,-2,Medium,bug,Dev
+TASK0479,Update user profile UI,Allow users to export orders in CSV and Excel format.,testing,12,2025-10-22,2025-11-04,12,Low,feature,Dev
+TASK0480,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,2,2025-10-02,2025-10-08,-15,Medium,bug,Dev
+TASK0481,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,8,2025-09-25,2025-10-15,-8,High,bug,Chitra
+TASK0482,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,testing,1,2025-10-08,2025-10-11,-12,Medium,bug,Bob
+TASK0483,Database migration,Refactor authentication flow to use OAuth2 best practices.,frontend,12,2025-10-10,2025-10-28,5,Medium,feature,Dev
+TASK0484,Optimize image loading,Design and implement onboarding wizard for new users.,research,6,2025-09-28,2025-10-10,-13,Medium,chore,Esha
+TASK0485,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,frontend,1,2025-10-13,2025-10-24,1,Medium,feature,Alice
+TASK0486,Write unit tests,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,6,2025-09-25,2025-10-12,-11,Medium,feature,Esha
+TASK0487,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-10-16,2025-10-24,1,High,bug,Alice
+TASK0488,Database migration,Allow users to export orders in CSV and Excel format.,ux,6,2025-09-29,2025-10-11,-12,Medium,chore,Bob
+TASK0489,Database migration,Allow users to export orders in CSV and Excel format.,devops,12,2025-10-18,2025-10-30,7,Medium,chore,Alice
+TASK0490,Optimize image loading,Allow users to export orders in CSV and Excel format.,research,2,2025-10-01,2025-10-20,-3,Medium,chore,Dev
+TASK0491,Write unit tests,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,1,2025-10-06,2025-10-09,-14,Medium,bug,Esha
+TASK0492,Fix login error,Refactor authentication flow to use OAuth2 best practices.,testing,1,2025-10-16,2025-10-27,4,Low,chore,Bob
+TASK0493,Update user profile UI,Speed up image loading using lazy loading and compression.,data,2,2025-09-28,2025-10-09,-14,Medium,bug,Bob
+TASK0494,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,ux,8,2025-10-05,2025-10-17,-6,High,chore,Chitra
+TASK0495,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,backend,4,2025-10-01,2025-10-11,-12,Medium,bug,Bob
+TASK0496,Investigate crash on submit,Design and implement onboarding wizard for new users.,data,4,2025-09-30,2025-10-06,-17,Medium,feature,Esha
+TASK0497,Add export CSV,Speed up image loading using lazy loading and compression.,frontend,12,2025-10-01,2025-10-20,-3,High,chore,Dev
+TASK0498,Write unit tests,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,12,2025-10-14,2025-10-15,-8,High,chore,Esha
+TASK0499,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,8,2025-10-11,2025-10-22,-1,High,chore,Esha
+TASK0500,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,testing,2,2025-10-16,2025-10-27,4,Low,feature,Bob
+TASK0501,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,data,1,2025-10-12,2025-10-23,0,Medium,feature,Chitra
+TASK0502,Database migration,Need to implement a search bar with fuzzy matching and filters.,devops,4,2025-10-17,2025-10-21,-2,Medium,feature,Alice
+TASK0503,Create onboarding flow,App crashes intermittently when submitting large form payloads.,frontend,6,2025-10-11,2025-10-27,4,Low,chore,Chitra
+TASK0504,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,ux,6,2025-10-06,2025-10-25,2,Medium,feature,Bob
+TASK0505,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,ux,1,2025-10-18,2025-10-28,5,Low,bug,Chitra
+TASK0506,Add search feature,Need to implement a search bar with fuzzy matching and filters.,devops,2,2025-09-23,2025-10-06,-17,Medium,bug,Alice
+TASK0507,Add search feature,Speed up image loading using lazy loading and compression.,research,8,2025-10-06,2025-10-22,-1,High,feature,Dev
+TASK0508,Update user profile UI,Allow users to export orders in CSV and Excel format.,testing,2,2025-09-23,2025-09-25,-28,Medium,bug,Bob
+TASK0509,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,data,12,2025-10-17,2025-11-04,12,Low,bug,Chitra
+TASK0510,Database migration,Need to implement a search bar with fuzzy matching and filters.,backend,6,2025-10-14,2025-11-02,10,Low,feature,Dev
+TASK0511,Fix login error,Speed up image loading using lazy loading and compression.,backend,6,2025-10-19,2025-10-22,-1,Medium,bug,Esha
+TASK0512,Database migration,Need to implement a search bar with fuzzy matching and filters.,backend,2,2025-10-08,2025-10-14,-9,Medium,feature,Alice
+TASK0513,Add search feature,Add unit tests for payment module to improve coverage to 80%.,ux,6,2025-10-08,2025-10-24,1,Medium,feature,Chitra
+TASK0514,Refactor auth module,App crashes intermittently when submitting large form payloads.,frontend,4,2025-10-21,2025-11-03,11,Low,feature,Dev
+TASK0515,Write unit tests,Design and implement onboarding wizard for new users.,testing,4,2025-10-22,2025-10-30,7,Low,chore,Esha
+TASK0516,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,backend,12,2025-10-22,2025-11-03,11,Medium,chore,Dev
+TASK0517,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,research,1,2025-09-29,2025-10-12,-11,Medium,chore,Dev
+TASK0518,Refactor auth module,Design and implement onboarding wizard for new users.,research,2,2025-09-23,2025-10-09,-14,Medium,bug,Dev
+TASK0519,Fix login error,Refactor authentication flow to use OAuth2 best practices.,research,8,2025-09-25,2025-10-14,-9,High,feature,Esha
+TASK0520,Add search feature,Design and implement onboarding wizard for new users.,frontend,2,2025-10-19,2025-10-26,3,Low,chore,Bob
+TASK0521,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,data,6,2025-10-22,2025-10-29,6,Low,chore,Bob
+TASK0522,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,devops,12,2025-09-27,2025-09-30,-23,High,bug,Esha
+TASK0523,Refactor auth module,Speed up image loading using lazy loading and compression.,ux,4,2025-10-11,2025-10-28,5,Low,feature,Alice
+TASK0524,Add export CSV,Allow users to export orders in CSV and Excel format.,research,6,2025-09-28,2025-10-02,-21,Medium,feature,Bob
+TASK0525,Add export CSV,Allow users to export orders in CSV and Excel format.,ux,1,2025-10-05,2025-10-09,-14,Medium,feature,Alice
+TASK0526,Write unit tests,Refactor authentication flow to use OAuth2 best practices.,devops,6,2025-09-28,2025-10-07,-16,Medium,feature,Dev
+TASK0527,Add export CSV,Design and implement onboarding wizard for new users.,backend,2,2025-10-05,2025-10-14,-9,Medium,feature,Esha
+TASK0528,Investigate crash on submit,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",testing,4,2025-10-04,2025-10-12,-11,Medium,bug,Dev
+TASK0529,Write unit tests,Speed up image loading using lazy loading and compression.,backend,4,2025-09-24,2025-10-04,-19,Medium,bug,Dev
+TASK0530,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,frontend,4,2025-09-26,2025-10-11,-12,Medium,feature,Chitra
+TASK0531,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,data,1,2025-10-15,2025-10-22,-1,Medium,feature,Dev
+TASK0532,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,ux,4,2025-09-30,2025-10-02,-21,Medium,feature,Bob
+TASK0533,Write unit tests,Refactor authentication flow to use OAuth2 best practices.,testing,2,2025-10-21,2025-11-07,15,Low,chore,Alice
+TASK0534,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,ux,1,2025-10-18,2025-10-26,3,Low,bug,Alice
+TASK0535,Optimize image loading,Add migration scripts to move old schema to new one. Ensure backups.,devops,4,2025-09-24,2025-10-09,-14,Medium,feature,Alice
+TASK0536,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,devops,6,2025-10-02,2025-10-22,-1,Medium,feature,Dev
+TASK0537,Refactor auth module,Speed up image loading using lazy loading and compression.,devops,2,2025-10-05,2025-10-14,-9,Medium,feature,Alice
+TASK0538,Fix login error,App crashes intermittently when submitting large form payloads.,backend,2,2025-10-14,2025-11-02,10,Low,feature,Bob
+TASK0539,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,data,2,2025-09-26,2025-10-05,-18,Medium,feature,Esha
+TASK0540,Fix login error,Design and implement onboarding wizard for new users.,frontend,12,2025-10-23,2025-10-29,6,Low,feature,Alice
+TASK0541,Write unit tests,Allow users to export orders in CSV and Excel format.,ux,4,2025-10-16,2025-10-25,2,Medium,feature,Dev
+TASK0542,Optimize image loading,Design and implement onboarding wizard for new users.,devops,2,2025-09-26,2025-10-11,-12,Medium,bug,Esha
+TASK0543,Add export CSV,App crashes intermittently when submitting large form payloads.,research,1,2025-09-27,2025-09-28,-25,Medium,feature,Chitra
+TASK0544,Add export CSV,Allow users to export orders in CSV and Excel format.,devops,4,2025-10-06,2025-10-10,-13,Medium,feature,Chitra
+TASK0545,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,devops,12,2025-10-15,2025-10-25,2,High,bug,Esha
+TASK0546,Database migration,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,8,2025-09-29,2025-10-12,-11,High,feature,Bob
+TASK0547,Fix login error,Design and implement onboarding wizard for new users.,devops,4,2025-09-30,2025-10-14,-9,Medium,feature,Alice
+TASK0548,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,devops,12,2025-10-05,2025-10-13,-10,High,feature,Dev
+TASK0549,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,devops,2,2025-09-24,2025-10-12,-12,Medium,bug,Alice
+TASK0550,Update user profile UI,Add unit tests for payment module to improve coverage to 80%.,data,8,2025-10-08,2025-10-14,-9,High,chore,Chitra
+TASK0551,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,devops,2,2025-10-03,2025-10-13,-10,Medium,feature,Chitra
+TASK0552,Write unit tests,Allow users to export orders in CSV and Excel format.,devops,6,2025-10-12,2025-10-16,-7,Medium,feature,Esha
+TASK0553,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,testing,2,2025-10-05,2025-10-22,-1,Medium,bug,Dev
+TASK0554,Write unit tests,App crashes intermittently when submitting large form payloads.,backend,2,2025-10-07,2025-10-12,-11,Medium,chore,Chitra
+TASK0555,Add export CSV,Design and implement onboarding wizard for new users.,frontend,4,2025-10-10,2025-10-16,-7,Medium,feature,Dev
+TASK0556,Update user profile UI,Speed up image loading using lazy loading and compression.,data,1,2025-10-13,2025-10-14,-9,Medium,feature,Bob
+TASK0557,Update user profile UI,Allow users to export orders in CSV and Excel format.,ux,2,2025-09-29,2025-10-15,-8,Medium,feature,Alice
+TASK0558,Add export CSV,App crashes intermittently when submitting large form payloads.,data,6,2025-10-19,2025-11-01,9,Low,feature,Dev
+TASK0559,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,2,2025-10-11,2025-10-23,0,Medium,chore,Chitra
+TASK0560,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,backend,12,2025-09-29,2025-09-30,-23,High,feature,Bob
+TASK0561,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,frontend,1,2025-10-16,2025-10-29,6,Low,feature,Chitra
+TASK0562,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,4,2025-10-18,2025-11-02,10,Low,feature,Esha
+TASK0563,Optimize image loading,App crashes intermittently when submitting large form payloads.,data,2,2025-10-07,2025-10-18,-5,Medium,chore,Dev
+TASK0564,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,6,2025-10-12,2025-10-13,-10,Medium,bug,Bob
+TASK0565,Fix login error,Allow users to export orders in CSV and Excel format.,research,2,2025-10-17,2025-10-21,-2,Medium,feature,Alice
+TASK0566,Write unit tests,Refactor authentication flow to use OAuth2 best practices.,research,1,2025-10-11,2025-10-31,8,Low,chore,Alice
+TASK0567,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,1,2025-10-03,2025-10-17,-6,Medium,feature,Alice
+TASK0568,Write unit tests,Design and implement onboarding wizard for new users.,data,2,2025-10-06,2025-10-13,-10,Medium,feature,Alice
+TASK0569,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,data,8,2025-10-14,2025-10-23,0,High,feature,Bob
+TASK0570,Add search feature,Refactor authentication flow to use OAuth2 best practices.,data,8,2025-10-10,2025-10-14,-9,High,bug,Alice
+TASK0571,Database migration,Allow users to export orders in CSV and Excel format.,frontend,4,2025-10-08,2025-10-25,2,Medium,chore,Chitra
+TASK0572,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,frontend,1,2025-10-01,2025-10-19,-4,Medium,feature,Bob
+TASK0573,Create onboarding flow,Speed up image loading using lazy loading and compression.,frontend,1,2025-10-01,2025-10-02,-21,Medium,feature,Alice
+TASK0574,Add export CSV,Design and implement onboarding wizard for new users.,frontend,1,2025-09-27,2025-10-14,-9,Medium,bug,Alice
+TASK0575,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,testing,4,2025-09-25,2025-10-04,-19,Medium,feature,Alice
+TASK0576,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,4,2025-09-27,2025-10-09,-14,Medium,chore,Chitra
+TASK0577,Add search feature,Need to implement a search bar with fuzzy matching and filters.,ux,1,2025-10-10,2025-10-11,-12,Medium,chore,Bob
+TASK0578,Optimize image loading,Design and implement onboarding wizard for new users.,research,4,2025-10-13,2025-10-16,-7,Medium,feature,Chitra
+TASK0579,Add search feature,App crashes intermittently when submitting large form payloads.,testing,6,2025-10-18,2025-10-27,4,Low,chore,Dev
+TASK0580,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,2,2025-09-28,2025-09-30,-23,Medium,chore,Bob
+TASK0581,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,testing,8,2025-10-20,2025-11-04,12,Low,bug,Dev
+TASK0582,Optimize image loading,Allow users to export orders in CSV and Excel format.,backend,12,2025-09-29,2025-10-04,-19,High,feature,Dev
+TASK0583,Investigate crash on submit,Design and implement onboarding wizard for new users.,backend,1,2025-10-20,2025-10-29,6,Low,feature,Alice
+TASK0584,Refactor auth module,Allow users to export orders in CSV and Excel format.,data,8,2025-10-01,2025-10-09,-14,High,chore,Chitra
+TASK0585,Refactor auth module,Allow users to export orders in CSV and Excel format.,backend,6,2025-10-07,2025-10-15,-8,Medium,feature,Dev
+TASK0586,Refactor auth module,Allow users to export orders in CSV and Excel format.,backend,1,2025-10-19,2025-10-25,2,Medium,feature,Dev
+TASK0587,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,6,2025-09-26,2025-10-07,-16,Medium,bug,Chitra
+TASK0588,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,research,12,2025-10-22,2025-11-04,12,Low,feature,Bob
+TASK0589,Create onboarding flow,Design and implement onboarding wizard for new users.,ux,8,2025-10-21,2025-11-05,13,Low,bug,Dev
+TASK0590,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,testing,12,2025-10-09,2025-10-10,-13,High,bug,Dev
+TASK0591,Refactor auth module,Refactor authentication flow to use OAuth2 best practices.,backend,1,2025-10-22,2025-11-11,19,Low,chore,Chitra
+TASK0592,Refactor auth module,Refactor authentication flow to use OAuth2 best practices.,frontend,12,2025-09-25,2025-10-10,-13,High,chore,Chitra
+TASK0593,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,ux,6,2025-09-27,2025-10-08,-15,Medium,feature,Esha
+TASK0594,Create onboarding flow,Speed up image loading using lazy loading and compression.,data,6,2025-10-04,2025-10-08,-15,Medium,bug,Bob
+TASK0595,Optimize image loading,Speed up image loading using lazy loading and compression.,ux,12,2025-10-23,2025-11-02,10,Low,feature,Chitra
+TASK0596,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,6,2025-10-01,2025-10-06,-17,Medium,chore,Dev
+TASK0597,Write unit tests,Allow users to export orders in CSV and Excel format.,frontend,2,2025-10-20,2025-10-24,1,Medium,chore,Dev
+TASK0598,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,data,4,2025-10-17,2025-10-21,-2,Medium,feature,Alice
+TASK0599,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,ux,6,2025-09-24,2025-10-09,-14,Medium,feature,Esha
+TASK0600,Create onboarding flow,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,12,2025-10-19,2025-10-21,-2,High,feature,Dev
+TASK0601,Add export CSV,Design and implement onboarding wizard for new users.,research,2,2025-09-27,2025-10-16,-7,Medium,bug,Bob
+TASK0602,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,research,4,2025-10-20,2025-11-06,14,Low,chore,Dev
+TASK0603,Database migration,Add unit tests for payment module to improve coverage to 80%.,testing,4,2025-10-04,2025-10-14,-9,Medium,feature,Bob
+TASK0604,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,data,12,2025-10-19,2025-11-05,13,Low,bug,Esha
+TASK0605,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,data,2,2025-09-26,2025-10-03,-20,Medium,bug,Chitra
+TASK0606,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,data,12,2025-10-02,2025-10-08,-15,High,feature,Chitra
+TASK0607,Add search feature,Speed up image loading using lazy loading and compression.,research,6,2025-10-01,2025-10-20,-3,Medium,feature,Dev
+TASK0608,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,ux,6,2025-10-02,2025-10-03,-20,Medium,feature,Alice
+TASK0609,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,1,2025-10-11,2025-10-18,-5,Medium,bug,Bob
+TASK0610,Write unit tests,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,1,2025-10-14,2025-10-24,1,Medium,bug,Esha
+TASK0611,Optimize image loading,Design and implement onboarding wizard for new users.,backend,8,2025-10-22,2025-11-09,17,Medium,chore,Esha
+TASK0612,Database migration,Refactor authentication flow to use OAuth2 best practices.,ux,12,2025-10-11,2025-10-21,-2,High,feature,Alice
+TASK0613,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,testing,12,2025-09-24,2025-10-05,-18,High,chore,Alice
+TASK0614,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,research,6,2025-10-23,2025-10-31,8,Low,chore,Chitra
+TASK0615,Add export CSV,Refactor authentication flow to use OAuth2 best practices.,data,8,2025-09-29,2025-10-06,-17,High,feature,Bob
+TASK0616,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,data,1,2025-10-14,2025-10-20,-3,Medium,chore,Esha
+TASK0617,Investigate crash on submit,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",testing,4,2025-10-20,2025-11-07,15,Low,bug,Bob
+TASK0618,Write unit tests,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,6,2025-10-05,2025-10-10,-13,Medium,bug,Chitra
+TASK0619,Fix login error,Allow users to export orders in CSV and Excel format.,ux,12,2025-10-04,2025-10-14,-9,High,feature,Esha
+TASK0620,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,ux,12,2025-10-06,2025-10-17,-6,High,feature,Bob
+TASK0621,Add search feature,Refactor authentication flow to use OAuth2 best practices.,frontend,6,2025-10-07,2025-10-25,2,Medium,feature,Alice
+TASK0622,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,data,4,2025-10-12,2025-10-23,0,Medium,feature,Bob
+TASK0623,Add export CSV,Refactor authentication flow to use OAuth2 best practices.,testing,8,2025-09-23,2025-09-24,-29,High,bug,Chitra
+TASK0624,Database migration,Allow users to export orders in CSV and Excel format.,research,2,2025-10-09,2025-10-11,-12,Medium,feature,Chitra
+TASK0625,Add search feature,App crashes intermittently when submitting large form payloads.,devops,8,2025-10-11,2025-10-21,-2,High,bug,Esha
+TASK0626,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,ux,8,2025-09-27,2025-10-12,-11,High,feature,Chitra
+TASK0627,Database migration,Speed up image loading using lazy loading and compression.,research,1,2025-09-25,2025-09-29,-24,Medium,bug,Esha
+TASK0628,Fix login error,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-10-06,2025-10-13,-10,High,chore,Dev
+TASK0629,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,research,12,2025-09-27,2025-10-11,-12,High,feature,Alice
+TASK0630,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",testing,12,2025-09-30,2025-10-11,-12,High,bug,Alice
+TASK0631,Update user profile UI,Add unit tests for payment module to improve coverage to 80%.,research,1,2025-10-22,2025-11-10,18,Low,chore,Chitra
+TASK0632,Investigate crash on submit,Design and implement onboarding wizard for new users.,data,6,2025-10-10,2025-10-24,1,Medium,bug,Dev
+TASK0633,Add search feature,Refactor authentication flow to use OAuth2 best practices.,backend,12,2025-10-02,2025-10-22,-1,High,bug,Esha
+TASK0634,Add search feature,Speed up image loading using lazy loading and compression.,research,1,2025-10-22,2025-11-01,9,Low,feature,Chitra
+TASK0635,Add search feature,Add unit tests for payment module to improve coverage to 80%.,ux,6,2025-10-04,2025-10-17,-6,Medium,feature,Alice
+TASK0636,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,frontend,2,2025-10-08,2025-10-21,-2,Medium,feature,Esha
+TASK0637,Update user profile UI,Add unit tests for payment module to improve coverage to 80%.,data,12,2025-10-14,2025-10-26,3,Medium,chore,Alice
+TASK0638,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,1,2025-10-06,2025-10-07,-16,Medium,feature,Dev
+TASK0639,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,devops,2,2025-10-06,2025-10-18,-5,Medium,bug,Esha
+TASK0640,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,8,2025-10-19,2025-10-28,5,Medium,bug,Bob
+TASK0641,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,8,2025-10-02,2025-10-17,-6,High,feature,Alice
+TASK0642,Add search feature,Add unit tests for payment module to improve coverage to 80%.,backend,2,2025-10-14,2025-11-02,10,Low,feature,Chitra
+TASK0643,Update user profile UI,Add migration scripts to move old schema to new one. Ensure backups.,backend,4,2025-10-12,2025-11-01,9,Low,bug,Bob
+TASK0644,Create onboarding flow,Design and implement onboarding wizard for new users.,devops,8,2025-10-13,2025-10-23,0,High,feature,Bob
+TASK0645,Add export CSV,Speed up image loading using lazy loading and compression.,ux,4,2025-10-05,2025-10-19,-4,Medium,bug,Chitra
+TASK0646,Database migration,App crashes intermittently when submitting large form payloads.,devops,4,2025-10-16,2025-10-21,-2,Medium,feature,Chitra
+TASK0647,Create onboarding flow,Design and implement onboarding wizard for new users.,testing,4,2025-09-25,2025-10-05,-18,Medium,feature,Alice
+TASK0648,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,ux,4,2025-10-18,2025-10-23,0,Medium,chore,Bob
+TASK0649,Add search feature,Need to implement a search bar with fuzzy matching and filters.,backend,8,2025-10-15,2025-10-16,-7,High,chore,Esha
+TASK0650,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,backend,8,2025-10-11,2025-10-20,-3,High,feature,Esha
+TASK0651,Update user profile UI,Speed up image loading using lazy loading and compression.,testing,2,2025-10-08,2025-10-27,4,Low,feature,Chitra
+TASK0652,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,research,1,2025-10-19,2025-11-01,9,Low,feature,Alice
+TASK0653,Database migration,Allow users to export orders in CSV and Excel format.,data,2,2025-10-02,2025-10-19,-4,Medium,bug,Bob
+TASK0654,Add export CSV,Allow users to export orders in CSV and Excel format.,data,2,2025-10-18,2025-11-03,11,Low,chore,Alice
+TASK0655,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,backend,4,2025-10-16,2025-10-28,5,Medium,bug,Bob
+TASK0656,Optimize image loading,App crashes intermittently when submitting large form payloads.,testing,6,2025-10-07,2025-10-09,-14,Medium,bug,Chitra
+TASK0657,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,ux,12,2025-10-20,2025-10-29,6,Low,feature,Esha
+TASK0658,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,devops,8,2025-10-18,2025-10-21,-2,High,feature,Dev
+TASK0659,Database migration,Refactor authentication flow to use OAuth2 best practices.,testing,4,2025-09-24,2025-10-06,-17,Medium,feature,Dev
+TASK0660,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,2,2025-09-25,2025-10-10,-13,Medium,bug,Alice
+TASK0661,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,frontend,2,2025-10-07,2025-10-13,-10,Medium,feature,Alice
+TASK0662,Database migration,App crashes intermittently when submitting large form payloads.,ux,4,2025-10-02,2025-10-06,-17,Medium,feature,Dev
+TASK0663,Database migration,Allow users to export orders in CSV and Excel format.,frontend,12,2025-10-08,2025-10-22,-1,High,bug,Alice
+TASK0664,Add export CSV,Allow users to export orders in CSV and Excel format.,frontend,2,2025-10-19,2025-11-05,13,Low,bug,Esha
+TASK0665,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,2,2025-10-19,2025-11-05,13,Low,chore,Esha
+TASK0666,Fix login error,Add unit tests for payment module to improve coverage to 80%.,backend,2,2025-10-05,2025-10-20,-3,Medium,feature,Dev
+TASK0667,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,6,2025-09-26,2025-10-16,-7,Medium,bug,Esha
+TASK0668,Update user profile UI,Allow users to export orders in CSV and Excel format.,data,8,2025-09-27,2025-10-06,-17,High,bug,Chitra
+TASK0669,Create onboarding flow,Allow users to export orders in CSV and Excel format.,research,1,2025-09-24,2025-10-02,-21,Medium,feature,Bob
+TASK0670,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,research,8,2025-10-20,2025-11-03,11,Low,chore,Esha
+TASK0671,Update user profile UI,Design and implement onboarding wizard for new users.,research,8,2025-10-20,2025-10-22,-1,High,chore,Esha
+TASK0672,Add search feature,Need to implement a search bar with fuzzy matching and filters.,testing,12,2025-10-07,2025-10-12,-11,High,chore,Esha
+TASK0673,Fix login error,App crashes intermittently when submitting large form payloads.,research,6,2025-09-27,2025-10-09,-14,Medium,chore,Esha
+TASK0674,Database migration,Design and implement onboarding wizard for new users.,ux,6,2025-10-10,2025-10-22,-1,Medium,feature,Esha
+TASK0675,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,6,2025-10-20,2025-10-28,4,Medium,chore,Alice
+TASK0676,Add export CSV,Refactor authentication flow to use OAuth2 best practices.,testing,4,2025-10-14,2025-10-21,-2,Medium,bug,Alice
+TASK0677,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,research,1,2025-10-05,2025-10-18,-5,Medium,feature,Chitra
+TASK0678,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,frontend,6,2025-10-10,2025-10-29,6,Low,bug,Esha
+TASK0679,Add export CSV,Speed up image loading using lazy loading and compression.,research,4,2025-10-10,2025-10-23,0,Medium,feature,Dev
+TASK0680,Refactor auth module,Design and implement onboarding wizard for new users.,frontend,4,2025-10-06,2025-10-24,1,Medium,feature,Chitra
+TASK0681,Add export CSV,Speed up image loading using lazy loading and compression.,ux,12,2025-10-14,2025-10-27,4,Medium,feature,Alice
+TASK0682,Database migration,Design and implement onboarding wizard for new users.,ux,12,2025-09-30,2025-10-06,-17,High,bug,Esha
+TASK0683,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,research,12,2025-10-11,2025-10-13,-10,High,bug,Alice
+TASK0684,Add search feature,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,8,2025-09-28,2025-10-12,-11,High,bug,Chitra
+TASK0685,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,research,1,2025-10-16,2025-10-29,6,Low,chore,Dev
+TASK0686,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,data,8,2025-10-04,2025-10-06,-17,High,chore,Bob
+TASK0687,Create onboarding flow,Design and implement onboarding wizard for new users.,backend,2,2025-10-03,2025-10-20,-3,Medium,bug,Alice
+TASK0688,Add export CSV,Refactor authentication flow to use OAuth2 best practices.,research,12,2025-09-28,2025-10-06,-17,High,feature,Alice
+TASK0689,Database migration,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,1,2025-10-12,2025-10-21,-2,Medium,feature,Chitra
+TASK0690,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,research,2,2025-10-02,2025-10-19,-4,Medium,bug,Alice
+TASK0691,Add search feature,Refactor authentication flow to use OAuth2 best practices.,devops,12,2025-09-24,2025-10-12,-11,High,chore,Chitra
+TASK0692,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,research,2,2025-10-12,2025-10-27,4,Low,chore,Esha
+TASK0693,Write unit tests,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,8,2025-10-23,2025-10-27,4,Medium,feature,Esha
+TASK0694,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,ux,8,2025-10-14,2025-10-23,0,High,chore,Esha
+TASK0695,Create onboarding flow,App crashes intermittently when submitting large form payloads.,research,6,2025-10-15,2025-10-23,0,Medium,feature,Dev
+TASK0696,Create onboarding flow,Allow users to export orders in CSV and Excel format.,ux,1,2025-10-02,2025-10-18,-5,Medium,bug,Alice
+TASK0697,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,ux,4,2025-10-11,2025-10-25,2,Medium,chore,Esha
+TASK0698,Fix login error,Add unit tests for payment module to improve coverage to 80%.,frontend,4,2025-10-06,2025-10-09,-14,Medium,feature,Chitra
+TASK0699,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,4,2025-10-21,2025-11-02,10,Low,bug,Esha
+TASK0700,Update user profile UI,Add migration scripts to move old schema to new one. Ensure backups.,testing,12,2025-10-15,2025-10-22,-1,High,bug,Bob
+TASK0701,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,frontend,2,2025-09-26,2025-10-04,-19,Medium,chore,Chitra
+TASK0702,Add search feature,Need to implement a search bar with fuzzy matching and filters.,backend,12,2025-10-19,2025-11-04,12,Medium,feature,Esha
+TASK0703,Fix login error,Design and implement onboarding wizard for new users.,devops,8,2025-09-23,2025-10-04,-19,High,feature,Esha
+TASK0704,Write unit tests,Design and implement onboarding wizard for new users.,frontend,8,2025-09-26,2025-10-05,-18,High,feature,Esha
+TASK0705,Fix login error,Refactor authentication flow to use OAuth2 best practices.,ux,6,2025-10-19,2025-11-04,12,Low,chore,Alice
+TASK0706,Optimize image loading,App crashes intermittently when submitting large form payloads.,ux,12,2025-10-07,2025-10-13,-10,High,feature,Alice
+TASK0707,Refactor auth module,Design and implement onboarding wizard for new users.,devops,12,2025-10-01,2025-10-02,-21,High,bug,Bob
+TASK0708,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,devops,4,2025-10-11,2025-10-31,8,Low,chore,Bob
+TASK0709,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,devops,6,2025-10-06,2025-10-26,3,Medium,bug,Bob
+TASK0710,Investigate crash on submit,Add migration scripts to move old schema to new one. Ensure backups.,testing,12,2025-10-08,2025-10-20,-3,High,feature,Dev
+TASK0711,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,research,2,2025-10-15,2025-11-03,11,Low,feature,Alice
+TASK0712,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,research,6,2025-09-30,2025-10-13,-10,Medium,bug,Bob
+TASK0713,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,6,2025-10-08,2025-10-13,-10,Medium,chore,Esha
+TASK0714,Optimize image loading,Design and implement onboarding wizard for new users.,devops,4,2025-10-06,2025-10-24,1,Medium,chore,Alice
+TASK0715,Add search feature,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,2,2025-10-11,2025-10-20,-3,Medium,feature,Alice
+TASK0716,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,devops,4,2025-10-09,2025-10-27,4,Medium,feature,Chitra
+TASK0717,Fix login error,App crashes intermittently when submitting large form payloads.,backend,4,2025-10-12,2025-11-01,9,Low,bug,Esha
+TASK0718,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,4,2025-10-03,2025-10-15,-8,Medium,bug,Esha
+TASK0719,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,testing,8,2025-10-08,2025-10-18,-5,High,feature,Bob
+TASK0720,Update user profile UI,Speed up image loading using lazy loading and compression.,testing,12,2025-09-26,2025-10-16,-7,High,feature,Alice
+TASK0721,Update user profile UI,Speed up image loading using lazy loading and compression.,frontend,4,2025-10-21,2025-11-01,9,Low,feature,Chitra
+TASK0722,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,testing,4,2025-10-04,2025-10-23,0,Medium,feature,Dev
+TASK0723,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,1,2025-10-10,2025-10-15,-8,Medium,feature,Chitra
+TASK0724,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,frontend,6,2025-09-23,2025-09-27,-26,Medium,bug,Dev
+TASK0725,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,6,2025-10-06,2025-10-23,0,Medium,feature,Alice
+TASK0726,Write unit tests,Allow users to export orders in CSV and Excel format.,frontend,1,2025-10-20,2025-11-02,10,Low,bug,Bob
+TASK0727,Write unit tests,Design and implement onboarding wizard for new users.,data,2,2025-09-30,2025-10-05,-18,Medium,feature,Bob
+TASK0728,Fix login error,Speed up image loading using lazy loading and compression.,ux,4,2025-10-23,2025-11-08,16,Low,feature,Esha
+TASK0729,Write unit tests,Refactor authentication flow to use OAuth2 best practices.,testing,2,2025-09-24,2025-10-12,-11,Medium,bug,Esha
+TASK0730,Add export CSV,App crashes intermittently when submitting large form payloads.,research,12,2025-10-09,2025-10-27,4,Medium,bug,Chitra
+TASK0731,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,ux,1,2025-10-08,2025-10-23,0,Medium,bug,Dev
+TASK0732,Update user profile UI,Add unit tests for payment module to improve coverage to 80%.,backend,1,2025-10-15,2025-11-01,9,Low,chore,Bob
+TASK0733,Write unit tests,Design and implement onboarding wizard for new users.,research,1,2025-10-12,2025-10-28,5,Low,chore,Dev
+TASK0734,Fix login error,App crashes intermittently when submitting large form payloads.,ux,4,2025-10-14,2025-11-03,11,Low,bug,Alice
+TASK0735,Optimize image loading,Add migration scripts to move old schema to new one. Ensure backups.,testing,8,2025-10-06,2025-10-20,-3,High,feature,Bob
+TASK0736,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,frontend,4,2025-10-01,2025-10-04,-19,Medium,feature,Bob
+TASK0737,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,devops,12,2025-10-07,2025-10-25,2,High,chore,Dev
+TASK0738,Add search feature,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,4,2025-10-17,2025-10-21,-2,Medium,feature,Esha
+TASK0739,Write unit tests,Allow users to export orders in CSV and Excel format.,testing,2,2025-10-09,2025-10-20,-3,Medium,bug,Alice
+TASK0740,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,4,2025-10-06,2025-10-15,-8,Medium,bug,Dev
+TASK0741,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,backend,2,2025-09-30,2025-10-01,-22,Medium,feature,Chitra
+TASK0742,Write unit tests,Design and implement onboarding wizard for new users.,devops,6,2025-10-10,2025-10-12,-11,Medium,bug,Bob
+TASK0743,Write unit tests,App crashes intermittently when submitting large form payloads.,backend,8,2025-10-22,2025-11-07,15,Medium,bug,Chitra
+TASK0744,Investigate crash on submit,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",backend,12,2025-09-27,2025-10-05,-18,High,feature,Dev
+TASK0745,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,testing,12,2025-10-16,2025-10-20,-3,High,feature,Bob
+TASK0746,Investigate crash on submit,Add unit tests for payment module to improve coverage to 80%.,devops,2,2025-10-08,2025-10-10,-13,Medium,feature,Esha
+TASK0747,Add search feature,Add unit tests for payment module to improve coverage to 80%.,testing,12,2025-10-07,2025-10-17,-6,High,bug,Alice
+TASK0748,Database migration,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-09-26,2025-10-10,-13,High,bug,Bob
+TASK0749,Write unit tests,Allow users to export orders in CSV and Excel format.,backend,6,2025-09-28,2025-10-06,-17,Medium,bug,Alice
+TASK0750,Create onboarding flow,Allow users to export orders in CSV and Excel format.,frontend,4,2025-10-05,2025-10-08,-15,Medium,bug,Dev
+TASK0751,Add export CSV,Speed up image loading using lazy loading and compression.,ux,12,2025-10-21,2025-10-23,0,High,bug,Bob
+TASK0752,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,frontend,6,2025-10-01,2025-10-09,-14,Medium,bug,Esha
+TASK0753,Optimize image loading,Design and implement onboarding wizard for new users.,data,2,2025-09-28,2025-09-29,-24,Medium,feature,Chitra
+TASK0754,Update user profile UI,Add unit tests for payment module to improve coverage to 80%.,backend,6,2025-09-30,2025-10-15,-8,Medium,feature,Esha
+TASK0755,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,research,2,2025-10-01,2025-10-19,-4,Medium,bug,Dev
+TASK0756,Add export CSV,Refactor authentication flow to use OAuth2 best practices.,frontend,1,2025-10-15,2025-11-01,9,Low,bug,Chitra
+TASK0757,Write unit tests,Refactor authentication flow to use OAuth2 best practices.,devops,6,2025-09-27,2025-09-28,-25,Medium,feature,Esha
+TASK0758,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,4,2025-10-11,2025-10-31,8,Low,bug,Alice
+TASK0759,Refactor auth module,App crashes intermittently when submitting large form payloads.,frontend,8,2025-10-02,2025-10-18,-5,High,feature,Bob
+TASK0760,Write unit tests,Speed up image loading using lazy loading and compression.,testing,12,2025-10-04,2025-10-15,-8,High,bug,Esha
+TASK0761,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,2,2025-10-02,2025-10-08,-15,Medium,chore,Bob
+TASK0762,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,backend,1,2025-10-20,2025-11-08,16,Low,feature,Dev
+TASK0763,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,research,12,2025-10-02,2025-10-21,-2,High,bug,Chitra
+TASK0764,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,backend,2,2025-10-16,2025-11-01,9,Low,chore,Alice
+TASK0765,Fix login error,Speed up image loading using lazy loading and compression.,research,12,2025-10-09,2025-10-23,0,High,chore,Alice
+TASK0766,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,research,1,2025-09-27,2025-09-30,-23,Medium,chore,Alice
+TASK0767,Database migration,Refactor authentication flow to use OAuth2 best practices.,backend,1,2025-09-23,2025-10-01,-22,Medium,feature,Bob
+TASK0768,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,research,12,2025-10-17,2025-10-23,0,High,feature,Esha
+TASK0769,Add search feature,Allow users to export orders in CSV and Excel format.,devops,12,2025-10-10,2025-10-25,2,High,feature,Dev
+TASK0770,Add search feature,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,2,2025-09-25,2025-10-13,-10,Medium,feature,Chitra
+TASK0771,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,research,6,2025-10-02,2025-10-14,-9,Medium,chore,Esha
+TASK0772,Optimize image loading,App crashes intermittently when submitting large form payloads.,ux,12,2025-10-13,2025-10-27,4,Medium,chore,Chitra
+TASK0773,Database migration,Allow users to export orders in CSV and Excel format.,research,2,2025-10-04,2025-10-17,-6,Medium,feature,Chitra
+TASK0774,Create onboarding flow,Design and implement onboarding wizard for new users.,testing,1,2025-10-12,2025-10-14,-9,Medium,chore,Esha
+TASK0775,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,1,2025-10-23,2025-11-02,10,Low,chore,Bob
+TASK0776,Optimize image loading,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,12,2025-09-26,2025-10-05,-18,High,chore,Esha
+TASK0777,Add export CSV,Allow users to export orders in CSV and Excel format.,frontend,1,2025-10-06,2025-10-08,-15,Medium,feature,Bob
+TASK0778,Write unit tests,Speed up image loading using lazy loading and compression.,research,2,2025-10-19,2025-10-27,4,Low,bug,Chitra
+TASK0779,Add export CSV,App crashes intermittently when submitting large form payloads.,research,2,2025-10-21,2025-10-24,1,Medium,feature,Dev
+TASK0780,Create onboarding flow,Allow users to export orders in CSV and Excel format.,ux,1,2025-10-18,2025-11-07,15,Low,feature,Alice
+TASK0781,Add export CSV,App crashes intermittently when submitting large form payloads.,backend,1,2025-09-30,2025-10-11,-12,Medium,bug,Dev
+TASK0782,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,data,12,2025-10-10,2025-10-30,7,Low,chore,Dev
+TASK0783,Write unit tests,Refactor authentication flow to use OAuth2 best practices.,backend,4,2025-10-22,2025-11-09,17,Low,feature,Chitra
+TASK0784,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,12,2025-10-07,2025-10-20,-3,High,chore,Esha
+TASK0785,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,frontend,6,2025-10-05,2025-10-15,-8,Medium,feature,Bob
+TASK0786,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,testing,8,2025-10-19,2025-10-21,-2,High,feature,Chitra
+TASK0787,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,testing,12,2025-10-21,2025-10-26,3,Medium,feature,Dev
+TASK0788,Database migration,Design and implement onboarding wizard for new users.,testing,12,2025-10-06,2025-10-25,2,High,bug,Esha
+TASK0789,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,frontend,1,2025-09-30,2025-10-09,-14,Medium,feature,Chitra
+TASK0790,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,backend,12,2025-10-02,2025-10-16,-7,High,feature,Chitra
+TASK0791,Optimize image loading,Speed up image loading using lazy loading and compression.,research,12,2025-10-17,2025-10-18,-5,High,feature,Bob
+TASK0792,Add export CSV,Design and implement onboarding wizard for new users.,research,2,2025-10-12,2025-10-27,4,Low,bug,Bob
+TASK0793,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,12,2025-10-17,2025-10-20,-3,High,bug,Alice
+TASK0794,Add export CSV,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,4,2025-10-16,2025-10-17,-6,Medium,bug,Alice
+TASK0795,Create onboarding flow,Design and implement onboarding wizard for new users.,backend,4,2025-10-14,2025-10-21,-2,Medium,feature,Bob
+TASK0796,Refactor auth module,Refactor authentication flow to use OAuth2 best practices.,ux,4,2025-10-17,2025-11-04,12,Low,feature,Bob
+TASK0797,Fix login error,App crashes intermittently when submitting large form payloads.,research,12,2025-10-01,2025-10-18,-5,High,bug,Bob
+TASK0798,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,ux,12,2025-10-22,2025-11-11,19,Low,bug,Dev
+TASK0799,Fix login error,Need to implement a search bar with fuzzy matching and filters.,testing,12,2025-10-03,2025-10-12,-11,High,feature,Chitra
+TASK0800,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,12,2025-09-26,2025-10-09,-14,High,bug,Dev
+TASK0801,Add search feature,Speed up image loading using lazy loading and compression.,testing,8,2025-10-07,2025-10-25,2,High,bug,Bob
+TASK0802,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,data,1,2025-10-07,2025-10-09,-14,Medium,bug,Esha
+TASK0803,Optimize image loading,Design and implement onboarding wizard for new users.,testing,12,2025-10-14,2025-10-20,-3,High,bug,Chitra
+TASK0804,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,research,4,2025-10-12,2025-10-14,-9,Medium,feature,Dev
+TASK0805,Fix login error,Refactor authentication flow to use OAuth2 best practices.,devops,2,2025-09-25,2025-09-30,-24,Medium,bug,Dev
+TASK0806,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,data,6,2025-10-02,2025-10-19,-4,Medium,chore,Esha
+TASK0807,Database migration,App crashes intermittently when submitting large form payloads.,frontend,8,2025-09-26,2025-10-01,-22,High,feature,Chitra
+TASK0808,Add export CSV,Speed up image loading using lazy loading and compression.,testing,8,2025-09-24,2025-09-29,-24,High,bug,Bob
+TASK0809,Refactor auth module,Add migration scripts to move old schema to new one. Ensure backups.,ux,2,2025-10-05,2025-10-15,-8,Medium,feature,Esha
+TASK0810,Update user profile UI,App crashes intermittently when submitting large form payloads.,ux,2,2025-09-24,2025-10-13,-10,Medium,chore,Chitra
+TASK0811,Refactor auth module,Refactor authentication flow to use OAuth2 best practices.,data,1,2025-10-21,2025-10-27,4,Low,bug,Bob
+TASK0812,Fix login error,Speed up image loading using lazy loading and compression.,testing,6,2025-09-30,2025-10-10,-13,Medium,feature,Chitra
+TASK0813,Database migration,Need to implement a search bar with fuzzy matching and filters.,frontend,2,2025-10-19,2025-10-20,-3,Medium,feature,Esha
+TASK0814,Write unit tests,Allow users to export orders in CSV and Excel format.,research,8,2025-10-04,2025-10-12,-11,High,feature,Bob
+TASK0815,Fix login error,Speed up image loading using lazy loading and compression.,backend,12,2025-10-02,2025-10-18,-5,High,bug,Esha
+TASK0816,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,6,2025-10-08,2025-10-24,1,Medium,feature,Bob
+TASK0817,Database migration,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",testing,1,2025-10-17,2025-10-26,3,Low,chore,Bob
+TASK0818,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,backend,2,2025-09-30,2025-10-15,-8,Medium,chore,Dev
+TASK0819,Optimize image loading,Design and implement onboarding wizard for new users.,frontend,6,2025-10-01,2025-10-14,-9,Medium,feature,Esha
+TASK0820,Investigate crash on submit,Speed up image loading using lazy loading and compression.,testing,8,2025-09-30,2025-10-19,-4,High,feature,Esha
+TASK0821,Fix login error,Refactor authentication flow to use OAuth2 best practices.,backend,6,2025-10-03,2025-10-18,-5,Medium,chore,Alice
+TASK0822,Database migration,Refactor authentication flow to use OAuth2 best practices.,research,6,2025-09-25,2025-09-27,-26,Medium,feature,Esha
+TASK0823,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,devops,6,2025-09-29,2025-10-12,-11,Medium,chore,Chitra
+TASK0824,Update user profile UI,App crashes intermittently when submitting large form payloads.,devops,8,2025-10-09,2025-10-11,-12,High,feature,Bob
+TASK0825,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,data,8,2025-10-09,2025-10-13,-10,High,bug,Esha
+TASK0826,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,testing,6,2025-09-23,2025-10-04,-19,Medium,feature,Bob
+TASK0827,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,testing,1,2025-10-09,2025-10-18,-5,Medium,bug,Bob
+TASK0828,Add search feature,Need to implement a search bar with fuzzy matching and filters.,backend,12,2025-10-01,2025-10-16,-7,High,feature,Alice
+TASK0829,Investigate crash on submit,Refactor authentication flow to use OAuth2 best practices.,research,2,2025-10-07,2025-10-20,-3,Medium,feature,Alice
+TASK0830,Update user profile UI,Speed up image loading using lazy loading and compression.,research,12,2025-09-29,2025-10-04,-19,High,bug,Bob
+TASK0831,Fix login error,App crashes intermittently when submitting large form payloads.,devops,4,2025-10-18,2025-11-02,10,Low,bug,Bob
+TASK0832,Update user profile UI,Add migration scripts to move old schema to new one. Ensure backups.,backend,8,2025-10-20,2025-10-29,6,Medium,bug,Dev
+TASK0833,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,ux,1,2025-09-26,2025-10-16,-7,Medium,chore,Bob
+TASK0834,Add export CSV,Design and implement onboarding wizard for new users.,testing,6,2025-10-17,2025-11-01,9,Low,bug,Esha
+TASK0835,Database migration,Refactor authentication flow to use OAuth2 best practices.,devops,8,2025-10-23,2025-11-10,18,Medium,chore,Bob
+TASK0836,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,12,2025-10-22,2025-11-03,11,Medium,bug,Alice
+TASK0837,Add export CSV,Allow users to export orders in CSV and Excel format.,devops,4,2025-10-02,2025-10-05,-18,Medium,bug,Dev
+TASK0838,Update user profile UI,Add unit tests for payment module to improve coverage to 80%.,research,12,2025-10-18,2025-11-07,15,Low,feature,Esha
+TASK0839,Create onboarding flow,Allow users to export orders in CSV and Excel format.,devops,1,2025-10-18,2025-10-21,-2,Medium,feature,Chitra
+TASK0840,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,ux,6,2025-10-12,2025-10-30,7,Low,bug,Dev
+TASK0841,Add search feature,Add unit tests for payment module to improve coverage to 80%.,devops,8,2025-10-19,2025-11-02,10,Medium,feature,Bob
+TASK0842,Fix login error,Need to implement a search bar with fuzzy matching and filters.,research,12,2025-10-04,2025-10-21,-2,High,chore,Dev
+TASK0843,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,testing,8,2025-09-30,2025-10-11,-12,High,bug,Esha
+TASK0844,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,research,8,2025-10-04,2025-10-20,-3,High,feature,Dev
+TASK0845,Update user profile UI,Allow users to export orders in CSV and Excel format.,frontend,12,2025-10-08,2025-10-18,-5,High,chore,Alice
+TASK0846,Fix login error,Design and implement onboarding wizard for new users.,data,1,2025-10-20,2025-10-27,4,Low,feature,Dev
+TASK0847,Fix login error,Speed up image loading using lazy loading and compression.,devops,8,2025-10-10,2025-10-17,-6,High,bug,Bob
+TASK0848,Write unit tests,Add unit tests for payment module to improve coverage to 80%.,ux,1,2025-10-01,2025-10-11,-12,Medium,bug,Esha
+TASK0849,Fix login error,Need to implement a search bar with fuzzy matching and filters.,data,4,2025-10-13,2025-10-24,1,Medium,feature,Esha
+TASK0850,Fix login error,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,4,2025-10-04,2025-10-15,-8,Medium,chore,Dev
+TASK0851,Create onboarding flow,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,2,2025-09-24,2025-10-10,-13,Medium,bug,Dev
+TASK0852,Refactor auth module,Speed up image loading using lazy loading and compression.,testing,6,2025-09-25,2025-09-27,-26,Medium,chore,Chitra
+TASK0853,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,research,1,2025-10-05,2025-10-12,-11,Medium,feature,Chitra
+TASK0854,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,frontend,4,2025-09-28,2025-09-29,-24,Medium,bug,Dev
+TASK0855,Refactor auth module,Profile page layout looks cramped on mobile devices. Improve spacing.,research,8,2025-10-03,2025-10-16,-7,High,bug,Alice
+TASK0856,Write unit tests,Speed up image loading using lazy loading and compression.,data,1,2025-09-26,2025-10-05,-18,Medium,feature,Dev
+TASK0857,Database migration,Speed up image loading using lazy loading and compression.,testing,4,2025-09-25,2025-10-02,-21,Medium,feature,Bob
+TASK0858,Optimize image loading,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,2,2025-10-20,2025-10-23,0,Medium,feature,Alice
+TASK0859,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,frontend,2,2025-09-28,2025-10-09,-14,Medium,chore,Esha
+TASK0860,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,ux,1,2025-10-14,2025-10-31,8,Low,feature,Bob
+TASK0861,Fix login error,Design and implement onboarding wizard for new users.,testing,12,2025-10-17,2025-11-03,11,Low,bug,Chitra
+TASK0862,Fix login error,Allow users to export orders in CSV and Excel format.,ux,1,2025-09-24,2025-10-05,-18,Medium,feature,Alice
+TASK0863,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,backend,8,2025-10-20,2025-10-30,7,Medium,feature,Bob
+TASK0864,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,devops,4,2025-10-13,2025-10-31,8,Low,bug,Dev
+TASK0865,Add search feature,Add unit tests for payment module to improve coverage to 80%.,frontend,2,2025-10-02,2025-10-11,-12,Medium,bug,Esha
+TASK0866,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,frontend,8,2025-10-06,2025-10-18,-5,High,feature,Chitra
+TASK0867,Write unit tests,Allow users to export orders in CSV and Excel format.,frontend,2,2025-10-19,2025-10-22,-1,Medium,bug,Chitra
+TASK0868,Create onboarding flow,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,1,2025-10-06,2025-10-22,-1,Medium,chore,Alice
+TASK0869,Investigate crash on submit,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",backend,6,2025-10-20,2025-11-02,10,Low,bug,Esha
+TASK0870,Add export CSV,Design and implement onboarding wizard for new users.,research,4,2025-09-25,2025-10-05,-18,Medium,bug,Bob
+TASK0871,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,ux,6,2025-10-01,2025-10-20,-3,Medium,bug,Dev
+TASK0872,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,data,12,2025-10-20,2025-11-04,12,Low,feature,Bob
+TASK0873,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,devops,6,2025-10-19,2025-10-25,2,Medium,feature,Chitra
+TASK0874,Optimize image loading,Design and implement onboarding wizard for new users.,testing,1,2025-09-28,2025-10-01,-22,Medium,feature,Chitra
+TASK0875,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,4,2025-10-08,2025-10-28,5,Medium,feature,Esha
+TASK0876,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,devops,8,2025-10-20,2025-10-23,0,High,feature,Esha
+TASK0877,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,testing,2,2025-10-09,2025-10-29,6,Low,bug,Bob
+TASK0878,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,devops,2,2025-10-08,2025-10-27,4,Medium,feature,Dev
+TASK0879,Optimize image loading,Refactor authentication flow to use OAuth2 best practices.,data,2,2025-10-05,2025-10-11,-12,Medium,feature,Alice
+TASK0880,Add export CSV,Design and implement onboarding wizard for new users.,backend,8,2025-09-30,2025-10-20,-3,High,feature,Esha
+TASK0881,Create onboarding flow,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,6,2025-10-20,2025-10-23,0,Medium,feature,Esha
+TASK0882,Investigate crash on submit,Speed up image loading using lazy loading and compression.,testing,12,2025-09-29,2025-10-01,-22,High,bug,Bob
+TASK0883,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,2,2025-09-25,2025-09-30,-23,Medium,feature,Chitra
+TASK0884,Add export CSV,Allow users to export orders in CSV and Excel format.,testing,2,2025-10-11,2025-10-18,-5,Medium,feature,Chitra
+TASK0885,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,testing,12,2025-10-14,2025-10-26,3,Medium,chore,Esha
+TASK0886,Add export CSV,Refactor authentication flow to use OAuth2 best practices.,testing,2,2025-10-23,2025-11-02,10,Low,bug,Esha
+TASK0887,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,8,2025-09-23,2025-10-05,-18,High,bug,Chitra
+TASK0888,Fix login error,Add migration scripts to move old schema to new one. Ensure backups.,testing,12,2025-09-26,2025-10-15,-8,High,feature,Chitra
+TASK0889,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,testing,6,2025-10-01,2025-10-19,-4,Medium,bug,Bob
+TASK0890,Update user profile UI,Add migration scripts to move old schema to new one. Ensure backups.,research,6,2025-10-08,2025-10-20,-3,Medium,chore,Bob
+TASK0891,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,1,2025-10-14,2025-10-15,-8,Medium,bug,Dev
+TASK0892,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,2,2025-10-02,2025-10-16,-7,Medium,chore,Esha
+TASK0893,Investigate crash on submit,Allow users to export orders in CSV and Excel format.,frontend,6,2025-09-24,2025-10-11,-12,Medium,feature,Dev
+TASK0894,Optimize image loading,Add migration scripts to move old schema to new one. Ensure backups.,frontend,6,2025-10-11,2025-10-31,8,Low,bug,Dev
+TASK0895,Database migration,Refactor authentication flow to use OAuth2 best practices.,devops,6,2025-09-26,2025-10-14,-9,Medium,feature,Alice
+TASK0896,Add export CSV,Design and implement onboarding wizard for new users.,data,4,2025-10-22,2025-10-26,3,Low,feature,Alice
+TASK0897,Refactor auth module,Add unit tests for payment module to improve coverage to 80%.,testing,8,2025-10-19,2025-10-22,-1,High,feature,Esha
+TASK0898,Database migration,Design and implement onboarding wizard for new users.,data,12,2025-10-21,2025-10-24,1,High,feature,Esha
+TASK0899,Add export CSV,Add unit tests for payment module to improve coverage to 80%.,research,1,2025-09-28,2025-10-09,-14,Medium,feature,Alice
+TASK0900,Create onboarding flow,Refactor authentication flow to use OAuth2 best practices.,testing,8,2025-10-08,2025-10-19,-4,High,feature,Chitra
+TASK0901,Update user profile UI,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,8,2025-10-14,2025-10-24,1,High,feature,Esha
+TASK0902,Fix login error,Design and implement onboarding wizard for new users.,research,2,2025-10-15,2025-11-03,11,Low,bug,Chitra
+TASK0903,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,6,2025-09-28,2025-10-01,-22,Medium,bug,Alice
+TASK0904,Write unit tests,Add unit tests for payment module to improve coverage to 80%.,frontend,8,2025-09-26,2025-10-05,-18,High,bug,Chitra
+TASK0905,Add search feature,Allow users to export orders in CSV and Excel format.,frontend,8,2025-10-23,2025-10-28,5,Medium,feature,Chitra
+TASK0906,Update user profile UI,Add unit tests for payment module to improve coverage to 80%.,ux,12,2025-09-28,2025-10-06,-17,High,feature,Esha
+TASK0907,Fix login error,Speed up image loading using lazy loading and compression.,backend,2,2025-09-26,2025-10-16,-7,Medium,chore,Bob
+TASK0908,Create onboarding flow,App crashes intermittently when submitting large form payloads.,ux,6,2025-09-27,2025-10-05,-18,Medium,feature,Bob
+TASK0909,Add export CSV,Speed up image loading using lazy loading and compression.,backend,12,2025-10-17,2025-10-26,3,High,feature,Alice
+TASK0910,Update user profile UI,Design and implement onboarding wizard for new users.,testing,6,2025-10-22,2025-11-01,9,Low,feature,Esha
+TASK0911,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,testing,4,2025-10-16,2025-10-21,-2,Medium,feature,Dev
+TASK0912,Write unit tests,Design and implement onboarding wizard for new users.,testing,12,2025-10-23,2025-11-03,11,Low,chore,Alice
+TASK0913,Refactor auth module,Speed up image loading using lazy loading and compression.,ux,6,2025-10-20,2025-11-09,17,Low,chore,Chitra
+TASK0914,Write unit tests,Add unit tests for payment module to improve coverage to 80%.,ux,1,2025-10-13,2025-10-22,-1,Medium,feature,Dev
+TASK0915,Database migration,Allow users to export orders in CSV and Excel format.,ux,2,2025-10-09,2025-10-26,3,Low,bug,Bob
+TASK0916,Refactor auth module,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,1,2025-10-13,2025-10-16,-7,Medium,bug,Alice
+TASK0917,Add search feature,Design and implement onboarding wizard for new users.,devops,2,2025-10-07,2025-10-17,-6,Medium,bug,Alice
+TASK0918,Add export CSV,Need to implement a search bar with fuzzy matching and filters.,backend,8,2025-10-23,2025-10-30,7,Medium,chore,Alice
+TASK0919,Add search feature,Need to implement a search bar with fuzzy matching and filters.,ux,8,2025-10-01,2025-10-06,-17,High,feature,Esha
+TASK0920,Update user profile UI,Need to implement a search bar with fuzzy matching and filters.,data,2,2025-09-28,2025-10-07,-16,Medium,bug,Alice
+TASK0921,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,ux,6,2025-10-03,2025-10-14,-9,Medium,bug,Alice
+TASK0922,Fix login error,App crashes intermittently when submitting large form payloads.,testing,4,2025-10-15,2025-10-17,-6,Medium,bug,Chitra
+TASK0923,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,testing,2,2025-10-18,2025-11-07,15,Low,feature,Dev
+TASK0924,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,ux,6,2025-10-20,2025-10-27,4,Low,feature,Alice
+TASK0925,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,backend,1,2025-09-24,2025-09-27,-26,Medium,bug,Chitra
+TASK0926,Create onboarding flow,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",testing,2,2025-09-29,2025-09-30,-23,Medium,chore,Dev
+TASK0927,Update user profile UI,Speed up image loading using lazy loading and compression.,testing,8,2025-10-15,2025-10-16,-7,High,feature,Dev
+TASK0928,Investigate crash on submit,App crashes intermittently when submitting large form payloads.,ux,12,2025-10-08,2025-10-11,-12,High,feature,Alice
+TASK0929,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,research,8,2025-10-11,2025-10-23,0,High,bug,Chitra
+TASK0930,Fix login error,Need to implement a search bar with fuzzy matching and filters.,devops,8,2025-10-11,2025-10-22,-1,High,bug,Dev
+TASK0931,Write unit tests,Add migration scripts to move old schema to new one. Ensure backups.,frontend,8,2025-09-29,2025-10-01,-22,High,chore,Bob
+TASK0932,Investigate crash on submit,Need to implement a search bar with fuzzy matching and filters.,data,12,2025-10-14,2025-10-26,3,Medium,feature,Dev
+TASK0933,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,2,2025-09-30,2025-10-01,-22,Medium,feature,Esha
+TASK0934,Create onboarding flow,App crashes intermittently when submitting large form payloads.,backend,8,2025-10-16,2025-10-26,3,High,feature,Dev
+TASK0935,Fix login error,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,1,2025-09-23,2025-10-04,-19,Medium,feature,Alice
+TASK0936,Add search feature,Add migration scripts to move old schema to new one. Ensure backups.,ux,12,2025-10-11,2025-10-28,4,Medium,feature,Esha
+TASK0937,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,backend,1,2025-10-19,2025-10-24,1,Medium,feature,Alice
+TASK0938,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,12,2025-10-08,2025-10-13,-10,High,bug,Alice
+TASK0939,Write unit tests,Need to implement a search bar with fuzzy matching and filters.,testing,8,2025-09-25,2025-10-01,-22,High,chore,Alice
+TASK0940,Add search feature,Need to implement a search bar with fuzzy matching and filters.,testing,8,2025-09-27,2025-10-17,-6,High,bug,Bob
+TASK0941,Optimize image loading,App crashes intermittently when submitting large form payloads.,devops,1,2025-10-10,2025-10-29,6,Low,feature,Chitra
+TASK0942,Database migration,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,2,2025-09-27,2025-10-08,-15,Medium,bug,Chitra
+TASK0943,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,data,4,2025-10-19,2025-11-06,14,Low,bug,Bob
+TASK0944,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",frontend,1,2025-09-24,2025-10-14,-9,Medium,feature,Bob
+TASK0945,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,backend,1,2025-10-23,2025-10-29,6,Low,chore,Esha
+TASK0946,Write unit tests,App crashes intermittently when submitting large form payloads.,data,6,2025-09-25,2025-09-30,-23,Medium,bug,Chitra
+TASK0947,Create onboarding flow,App crashes intermittently when submitting large form payloads.,frontend,2,2025-10-07,2025-10-27,4,Low,feature,Esha
+TASK0948,Create onboarding flow,Allow users to export orders in CSV and Excel format.,backend,12,2025-10-18,2025-10-28,5,High,bug,Alice
+TASK0949,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,backend,8,2025-10-06,2025-10-10,-13,High,feature,Esha
+TASK0950,Database migration,Design and implement onboarding wizard for new users.,ux,12,2025-10-07,2025-10-14,-9,High,bug,Bob
+TASK0951,Update user profile UI,Design and implement onboarding wizard for new users.,testing,2,2025-10-20,2025-10-26,3,Low,feature,Alice
+TASK0952,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,frontend,6,2025-10-22,2025-10-31,8,Low,bug,Dev
+TASK0953,Add search feature,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",research,2,2025-10-22,2025-10-28,5,Low,feature,Dev
+TASK0954,Add search feature,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-10-07,2025-10-22,-1,High,feature,Chitra
+TASK0955,Database migration,Speed up image loading using lazy loading and compression.,frontend,1,2025-10-10,2025-10-21,-2,Medium,bug,Bob
+TASK0956,Investigate crash on submit,Add migration scripts to move old schema to new one. Ensure backups.,testing,2,2025-09-30,2025-10-03,-20,Medium,feature,Dev
+TASK0957,Investigate crash on submit,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,8,2025-10-22,2025-11-06,14,Low,bug,Chitra
+TASK0958,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,data,4,2025-10-19,2025-10-28,5,Low,bug,Bob
+TASK0959,Add export CSV,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",devops,2,2025-10-22,2025-10-26,3,Medium,chore,Dev
+TASK0960,Update user profile UI,Speed up image loading using lazy loading and compression.,frontend,4,2025-10-10,2025-10-30,7,Low,bug,Esha
+TASK0961,Update user profile UI,Allow users to export orders in CSV and Excel format.,research,2,2025-09-25,2025-09-28,-25,Medium,feature,Esha
+TASK0962,Database migration,Allow users to export orders in CSV and Excel format.,testing,6,2025-10-08,2025-10-17,-6,Medium,bug,Dev
+TASK0963,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,devops,6,2025-09-30,2025-10-19,-4,Medium,bug,Esha
+TASK0964,Update user profile UI,Allow users to export orders in CSV and Excel format.,backend,6,2025-09-23,2025-09-25,-28,Medium,bug,Dev
+TASK0965,Refactor auth module,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",testing,8,2025-09-30,2025-10-13,-10,High,feature,Alice
+TASK0966,Create onboarding flow,Add migration scripts to move old schema to new one. Ensure backups.,backend,8,2025-10-09,2025-10-10,-13,High,feature,Dev
+TASK0967,Database migration,Profile page layout looks cramped on mobile devices. Improve spacing.,devops,4,2025-09-23,2025-10-01,-22,Medium,feature,Alice
+TASK0968,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,frontend,12,2025-10-23,2025-11-07,15,Low,chore,Esha
+TASK0969,Create onboarding flow,Design and implement onboarding wizard for new users.,ux,2,2025-10-23,2025-11-05,13,Low,bug,Chitra
+TASK0970,Create onboarding flow,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",ux,12,2025-10-03,2025-10-06,-17,High,feature,Chitra
+TASK0971,Fix login error,Add unit tests for payment module to improve coverage to 80%.,testing,4,2025-10-07,2025-10-27,4,Low,feature,Bob
+TASK0972,Add search feature,Allow users to export orders in CSV and Excel format.,devops,12,2025-09-28,2025-09-30,-23,High,feature,Chitra
+TASK0973,Fix login error,Need to implement a search bar with fuzzy matching and filters.,testing,4,2025-09-25,2025-10-10,-13,Medium,feature,Chitra
+TASK0974,Update user profile UI,Refactor authentication flow to use OAuth2 best practices.,data,1,2025-10-12,2025-10-30,7,Low,feature,Bob
+TASK0975,Optimize image loading,Add migration scripts to move old schema to new one. Ensure backups.,research,1,2025-10-19,2025-11-04,12,Low,feature,Esha
+TASK0976,Database migration,Add migration scripts to move old schema to new one. Ensure backups.,devops,4,2025-09-26,2025-10-05,-18,Medium,feature,Dev
+TASK0977,Fix login error,Need to implement a search bar with fuzzy matching and filters.,devops,4,2025-10-15,2025-10-30,7,Low,feature,Esha
+TASK0978,Add search feature,Design and implement onboarding wizard for new users.,data,8,2025-09-27,2025-10-15,-8,High,chore,Dev
+TASK0979,Optimize image loading,Need to implement a search bar with fuzzy matching and filters.,frontend,6,2025-10-04,2025-10-07,-16,Medium,bug,Bob
+TASK0980,Add search feature,Need to implement a search bar with fuzzy matching and filters.,frontend,4,2025-10-14,2025-10-18,-5,Medium,feature,Dev
+TASK0981,Database migration,Refactor authentication flow to use OAuth2 best practices.,data,1,2025-10-19,2025-10-29,6,Low,feature,Esha
+TASK0982,Update user profile UI,Design and implement onboarding wizard for new users.,devops,6,2025-09-24,2025-10-09,-14,Medium,feature,Alice
+TASK0983,Database migration,Need to implement a search bar with fuzzy matching and filters.,backend,2,2025-10-14,2025-10-31,8,Low,feature,Dev
+TASK0984,Optimize image loading,Speed up image loading using lazy loading and compression.,testing,8,2025-10-05,2025-10-22,-1,High,chore,Dev
+TASK0985,Write unit tests,Allow users to export orders in CSV and Excel format.,frontend,4,2025-10-09,2025-10-15,-8,Medium,feature,Bob
+TASK0986,Optimize image loading,Add unit tests for payment module to improve coverage to 80%.,ux,1,2025-10-08,2025-10-13,-10,Medium,feature,Dev
+TASK0987,Update user profile UI,Allow users to export orders in CSV and Excel format.,frontend,12,2025-09-23,2025-10-11,-12,High,bug,Bob
+TASK0988,Update user profile UI,Profile page layout looks cramped on mobile devices. Improve spacing.,frontend,1,2025-09-27,2025-09-29,-24,Medium,chore,Esha
+TASK0989,Create onboarding flow,Add unit tests for payment module to improve coverage to 80%.,devops,2,2025-10-19,2025-10-26,3,Medium,feature,Alice
+TASK0990,Optimize image loading,Speed up image loading using lazy loading and compression.,frontend,4,2025-10-02,2025-10-17,-6,Medium,feature,Bob
+TASK0991,Write unit tests,Need to implement a search bar with fuzzy matching and filters.,backend,6,2025-10-06,2025-10-22,-1,Medium,feature,Dev
+TASK0992,Optimize image loading,Profile page layout looks cramped on mobile devices. Improve spacing.,backend,12,2025-09-24,2025-10-12,-11,High,chore,Chitra
+TASK0993,Write unit tests,Design and implement onboarding wizard for new users.,devops,8,2025-10-03,2025-10-08,-15,High,feature,Dev
+TASK0994,Add search feature,Design and implement onboarding wizard for new users.,backend,2,2025-10-13,2025-10-31,8,Low,bug,Alice
+TASK0995,Add export CSV,Add migration scripts to move old schema to new one. Ensure backups.,testing,4,2025-10-11,2025-10-14,-9,Medium,bug,Esha
+TASK0996,Database migration,Allow users to export orders in CSV and Excel format.,research,2,2025-10-03,2025-10-12,-11,Medium,bug,Alice
+TASK0997,Create onboarding flow,Need to implement a search bar with fuzzy matching and filters.,research,6,2025-10-06,2025-10-13,-10,Medium,feature,Esha
+TASK0998,Refactor auth module,"When user logs in, sometimes get 500 error. Steps to reproduce: ...",data,4,2025-10-04,2025-10-17,-6,Medium,bug,Dev
+TASK0999,Investigate crash on submit,Speed up image loading using lazy loading and compression.,backend,4,2025-10-12,2025-10-24,1,Medium,feature,Dev
+TASK1000,Refactor auth module,Need to implement a search bar with fuzzy matching and filters.,frontend,12,2025-09-26,2025-10-11,-12,High,feature,Dev
