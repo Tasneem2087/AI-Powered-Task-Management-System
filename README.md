@@ -20,8 +20,9 @@ It helps users create, categorize, and prioritize tasks efficiently while provid
 ✅ Modular backend with Flask + frontend dashboard
 
 🏗️ **Project Structure**
+
 AI-Powered-Task-Management-System/
-│
+
 ├── app.py                  # Main application script
 
 ├── train_models.py         # ML model training script
@@ -41,9 +42,13 @@ AI-Powered-Task-Management-System/
 **🧩 Tech Stack
 Category	                  Tools / Libraries**
 Frontend	                  HTML, CSS, JavaScript
+
 Backend	                    Python (Flask Framework)
+
 Machine Learning	          scikit-learn, nltk, pandas
+
 Visualization              	Matplotlib, Seaborn
+
 Database	                  SQLite / MySQL (optional)
 
 ⚙️**Installation and Setup**
